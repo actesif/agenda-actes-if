@@ -16,9 +16,9 @@
     "start": "2026-09-07T10:00:00+02:00",
     "end": "2026-09-07T13:00:00+02:00",
     "allDay": false,
-    "location": "Maison des réseaux artistiques et culturels - 221 rue de Belleville              📄  Voir le   compte-rendu du dernier GT artistique - 15              juin   (bilan SUP / échanges sur l'intérêt d'un          fonds de production mutualisé)           💬 D'ici le 7 septembre : identifiez les compagnies que vous          aimeriez accompagner           📅 GT artistique : lundi 7 septembre, matin — Au programme          échange autour des équipes artistiques identifiées pour          participer à SUP ; poursuite de la réflexion autour d'un fond          de production mutualisé",
+    "location": "Maison des réseaux artistiques et culturels - 221 rue de Belleville",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "📄 Voir le compte-rendu du dernier GT artistique - 15 juin (bilan SUP / échanges sur l'intérêt d'un fonds de production mutualisé) 💬 D'ici le 7 septembre : identifiez les…",
     "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833"
   },
   {
@@ -55,8 +55,8 @@
     "registrationUrl": null
   },
   {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
+    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
+    "title": "Séminaire annuel UFISC",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -66,8 +66,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
-    "title": "Séminaire annuel UFISC",
+    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
+    "title": "Plateau G20",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -187,8 +187,8 @@
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "fondation crédit coopératif prix de l'inspiration en ess",
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -198,8 +198,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "prépa demande acccompagnement artistique mutualisé région idf",
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
