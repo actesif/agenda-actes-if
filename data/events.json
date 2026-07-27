@@ -55,8 +55,19 @@
     "registrationUrl": null
   },
   {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
-    "title": "Séminaire annuel UFISC",
+    "id": "6ioo7jjflk5ue4tc6dqi9ak246@google.com-2026-09-24",
+    "title": "J'adore ma vie / Pavillon de Romainville",
+    "start": "2026-09-24",
+    "end": "2026-09-27",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
+    "title": "Plateau G20",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -66,8 +77,8 @@
     "registrationUrl": null
   },
   {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
+    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
+    "title": "Séminaire annuel UFISC",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -97,6 +108,17 @@
     "calendarKey": "vie-asso",
     "description": "Lalala On teste Un peu Comme ça",
     "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833/e51702ca9ad1c6048e78/admin"
+  },
+  {
+    "id": "36sammsneu3i7kq92pqatk5gh2@google.com-2026-10-14",
+    "title": "20 ans Curry Vavart // 15 ans Shakirail",
+    "start": "2026-10-14",
+    "end": "2026-10-19",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
@@ -187,8 +209,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "prépa demande acccompagnement artistique mutualisé région idf",
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -198,8 +220,8 @@
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "fondation crédit coopératif prix de l'inspiration en ess",
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
