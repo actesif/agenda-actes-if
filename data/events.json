@@ -7,7 +7,7 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": "https://fondation.michelin.com/proposer-un-projet/accueil",
+    "description": "https://fondation.michelin.com/proposer-un-projet/accueil lalala",
     "registrationUrl": null
   },
   {
@@ -55,8 +55,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
-    "title": "Séminaire annuel UFISC",
+    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
+    "title": "Plateau G20",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -66,8 +66,8 @@
     "registrationUrl": null
   },
   {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
+    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
+    "title": "Séminaire annuel UFISC",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -95,8 +95,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": "",
-    "registrationUrl": null
+    "description": "Lalala On teste Un peu Comme ça",
+    "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833/e51702ca9ad1c6048e78/admin"
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
@@ -242,10 +242,10 @@
     "registrationUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -253,10 +253,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
