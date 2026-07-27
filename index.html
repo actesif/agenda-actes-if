@@ -420,7 +420,7 @@
       { key: 'vie-asso',    label: 'Vie asso Actes if',            shortLabel: 'Vie asso',            calendarId: 'ju1pnmknkotcdp73h0qj04r2d8@group.calendar.google.com' },
       { key: 'partenaires', label: 'RDV & temps forts partenaires', shortLabel: 'Partenaires',         calendarId: 'n49s2qcfq130m5sbceo0if4di8@group.calendar.google.com' },
       { key: 'subventions', label: 'Subventions',                   shortLabel: 'Subventions',         calendarId: '6o2s2gk2d7npkdfeg6bjuvdts8@group.calendar.google.com' },
-      { key: 'membres',     label: 'Les événements des membres',    shortLabel: 'Événements membres',  calendarId: null } // pas de calendrier dédié — ajout manuel après validation Framaforms
+      { key: 'membres',     label: 'Les événements des membres',    shortLabel: 'Événements membres',  calendarId: 'b67bcec42779af9a91678c0b676998eb530b1932f0abff8bf3e80907e19e6f84@group.calendar.google.com' }
     ],
     // URL d'un formulaire Framaforms pour proposer un rendez-vous. Laisser vide ('') pour masquer le bouton.
     shareEventUrl: 'https://framaforms.org/partager-un-rendez-vous-au-reseau-1785149409',
@@ -1022,7 +1022,16 @@
   async function init(){
     renderShareBand();
     renderSubscribeCards();
-    const all = futureOnly(await loadEvents());
+    let all = futureOnly(await loadEvents());
+
+    // Mode démonstration : ajoute ?demo=membres à l'adresse pour montrer
+    // un exemple d'événement "membres" à l'équipe, sans jamais l'afficher
+    // pour les visiteurs normaux de la page.
+    if (new URLSearchParams(location.search).get('demo') === 'membres'){
+      const demoEvent = SNAPSHOT_EVENTS.find(e => e.id === 'demo-membres-1');
+      if (demoEvent) all = futureOnly([demoEvent, ...all]);
+    }
+
     renderLegend(all);
     renderFilters(all, key => {
       renderEvents(key === 'all' ? all : all.filter(e => e.calendarKey === key));
