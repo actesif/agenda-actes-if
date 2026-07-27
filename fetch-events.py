@@ -31,9 +31,17 @@ def ics_url(calendar_id):
 
 
 def strip_tags(text):
+    """Retire les balises HTML. Google Agenda stocke les descriptions en HTML
+    riche (<div>...</div>, <br>) plutôt qu'avec de vrais retours à la ligne :
+    on convertit d'abord les balises de bloc en \\n pour ne pas perdre la
+    structure en lignes, sinon 'Lieu :' et 'Inscription :' ne savent plus où
+    s'arrêter et avalent tout le reste du texte."""
     if not text:
         return ""
-    text = re.sub(r"<[^>]+>", " ", str(text))
+    text = str(text)
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"</(div|p|li|tr)>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
     return htmllib.unescape(text)
 
 
@@ -63,10 +71,12 @@ def extract_registration_url(text):
 def extract_location_line(text):
     """Cherche une ligne du type 'Lieu : ...' dans la description
     et la retire du texte affiché. S'arrête à la fin de ligne, ou avant
-    un éventuel 'Inscription :' si tout est resté sur une seule ligne."""
+    un éventuel 'Inscription :' si tout est resté sur une seule ligne.
+    Plafonnée à 100 caractères par sécurité : un lieu ne s'étale pas sur
+    tout le reste de la description, même si une frontière a été manquée."""
     if not text:
         return text, None
-    match = re.search(r"lieu\s*:\s*(.+?)(?=\n|$|\s*inscription\s*:)", text, re.IGNORECASE)
+    match = re.search(r"lieu\s*:\s*(.{1,100}?)(?=\n|$|\s*inscription\s*:)", text, re.IGNORECASE)
     if not match:
         return text, None
     value = match.group(1).strip().rstrip(".,;")
