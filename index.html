@@ -267,7 +267,6 @@
   }
   .event-date .wd{ font-size:11px; font-weight:700; color:var(--navy-muted); text-transform:uppercase; letter-spacing:0.04em; }
   .event-date .day{ font-size:2.5rem; font-weight:800; color:var(--navy); line-height:1; }
-  .event-date .day.range{ font-size:1.5rem; line-height:1.2; }
   .event-date .mo{ font-size:11px; font-weight:700; color:var(--navy-muted); text-transform:uppercase; letter-spacing:0.04em; }
 
   .event::before{
@@ -301,7 +300,6 @@
   .event:hover h3{ color: var(--coral); }
 
   .event-place{ font-size: 0.9rem; color: var(--navy-muted); margin: 0 0 var(--sp-2); display:flex; align-items:center; gap:6px; }
-  .member-tag{ font-size: 0.8rem; font-style:italic; color: var(--coral-deep); margin: 0 0 var(--sp-2); }
   .event-place svg{ width:14px; height:14px; flex:none; }
 
   .event-desc{
@@ -915,7 +913,6 @@
       const cal = calByKey[ev.calendarKey] || CONFIG.categories[0];
       const p = parisParts(ev.start);
       const multiDay = isMultiDay(ev);
-      const pe = multiDay ? parisParts(inclusiveEndISODate(ev)) : null;
       const timeRange = multiDay ? formatDayRange(ev) : formatTimeRange(ev);
 
       const article = document.createElement('article');
@@ -928,7 +925,7 @@
       article.innerHTML = `
         <div class="event-date">
           <div class="wd">${p.weekday}</div>
-          <div class="day${multiDay ? ' range' : ''}">${multiDay ? `${p.day}–${pe.day}` : p.day}</div>
+          <div class="day">${p.day}</div>
           <div class="mo">${p.month}</div>
         </div>
         <div class="event-content">
@@ -938,7 +935,6 @@
           </div>
           <h3>${ev.title}</h3>
           ${ev.location ? `<p class="event-place">${iconPin()} ${ev.location}</p>` : ''}
-          ${ev.calendarKey === 'membres' ? `<p class="member-tag">Proposé par un membre du réseau</p>` : ''}
           ${ev.description ? `<p class="event-desc${ev.description.length > 140 ? ' clamped' : ''}">${ev.description}</p>` : ''}
           <div class="event-actions">
             ${registerBtn}
