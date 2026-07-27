@@ -16,9 +16,9 @@
     "start": "2026-09-07T10:00:00+02:00",
     "end": "2026-09-07T13:00:00+02:00",
     "allDay": false,
-    "location": "Maison des réseaux artistiques et culturels - 221 rue de Belleville",
+    "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "📄 Voir le compte-rendu du dernier GT artistique - 15 juin (bilan SUP / échanges sur l'intérêt d'un fonds de production mutualisé) 💬 D'ici le 7 septembre : identifiez les compagnies que vous aimeriez accompagner 📅 GT artistique : lundi 7 septembre, matin — Au programme échange autour des équipes artistiques identifiées pour participer à SUP ; poursuite de la réflexion autour d'un fond de production mutualisé.",
+    "description": "[D'ici le 7 septembre : identifiez les compagnies que vous aimeriez accompagner] Échanges autour des équipes artistiques identifiées pour participer à Sur Un Plateau ; poursuite de la réflexion autour d'un fond de production mutualisé.",
     "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833"
   },
   {
@@ -99,10 +99,10 @@
     "registrationUrl": null
   },
   {
-    "id": "4ikpe58cds7l8s0vtqarm0v220@google.com-2026-10-13",
+    "id": "4ikpe58cds7l8s0vtqarm0v220@google.com-2026-10-12",
     "title": "Option GT artistique",
-    "start": "2026-10-13",
-    "end": "2026-10-14",
+    "start": "2026-10-12",
+    "end": "2026-10-13",
     "allDay": true,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
@@ -209,8 +209,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "prépa demande acccompagnement artistique mutualisé région idf",
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -220,8 +220,8 @@
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "fondation crédit coopératif prix de l'inspiration en ess",
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
