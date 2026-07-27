@@ -84,7 +84,10 @@ def extract_location_line(text):
     return cleaned, value
 
 
-def clean_desc(text, limit=170):
+def clean_desc(text, limit=5000):
+    """Le texte complet est envoyé à la page (qui gère elle-même l'affichage
+    condensé et le 'Voir plus'). Cette limite très large n'est qu'un garde-fou
+    contre un cas extrême, pas une troncature d'affichage."""
     text = text.strip()
     if len(text) <= limit:
         return text
