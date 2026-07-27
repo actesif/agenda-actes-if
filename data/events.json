@@ -34,14 +34,14 @@
   },
   {
     "id": "7urpdle9op8b9r65j1s5rdrkkr@google.com-2026-09-16T09:30:00+02:00",
-    "title": "Option Petit dej Actes if",
+    "title": "Option Petit déj Actes if",
     "start": "2026-09-16T09:30:00+02:00",
     "end": "2026-09-16T11:30:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
     "description": "",
-    "registrationUrl": null
+    "registrationUrl": "https://beta.framadate.org/polls/b737168e2d0a544ac84b"
   },
   {
     "id": "2344i5tn7aijhtd5qdp19bijvf@google.com-2026-09-18",
@@ -66,8 +66,8 @@
     "registrationUrl": "https://www.helloasso.com/associations/madamelune/evenements/cie-madamelune"
   },
   {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
+    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
+    "title": "Séminaire annuel UFISC",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -77,8 +77,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
-    "title": "Séminaire annuel UFISC",
+    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
+    "title": "Plateau G20",
     "start": "2026-10-05",
     "end": "2026-10-07",
     "allDay": true,
@@ -209,8 +209,8 @@
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "fondation crédit coopératif prix de l'inspiration en ess",
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -220,8 +220,8 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "prépa demande acccompagnement artistique mutualisé région idf",
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -264,10 +264,10 @@
     "registrationUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -275,10 +275,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
