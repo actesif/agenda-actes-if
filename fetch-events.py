@@ -30,12 +30,42 @@ def ics_url(calendar_id):
     return f"https://calendar.google.com/calendar/ical/{quote(calendar_id)}/public/basic.ics"
 
 
-def strip_html(text):
+def strip_tags(text):
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", str(text))
-    text = htmllib.unescape(text)
+    return htmllib.unescape(text)
+
+
+def collapse_whitespace(text):
     return re.sub(r"\s+", " ", text).strip()
+
+
+def extract_registration_url(text):
+    """Cherche une ligne du type 'Inscription : https://...' dans la description
+    et la retire du texte affiché."""
+    if not text:
+        return text, None
+    match = re.search(r"inscription\s*:?\s*(https?://\S+)", text, re.IGNORECASE)
+    if not match:
+        return text, None
+    url = match.group(1).rstrip(").,;")
+    cleaned = (text[:match.start()] + text[match.end():]).strip()
+    return cleaned, url
+
+
+def extract_location_line(text):
+    """Cherche une ligne du type 'Lieu : ...' dans la description
+    et la retire du texte affiché. S'arrête à la fin de ligne, ou avant
+    un éventuel 'Inscription :' si tout est resté sur une seule ligne."""
+    if not text:
+        return text, None
+    match = re.search(r"lieu\s*:\s*(.+?)(?=\n|$|\s*inscription\s*:)", text, re.IGNORECASE)
+    if not match:
+        return text, None
+    value = match.group(1).strip().rstrip(".,;")
+    cleaned = (text[:match.start()] + text[match.end():]).strip()
+    return cleaned, value
 
 
 def clean_desc(text, limit=170):
@@ -72,7 +102,12 @@ def main():
             is_all_day = not isinstance(dtstart, datetime.datetime)
             uid = str(ev.get("UID", ""))
             location = str(ev.get("LOCATION", "") or "").replace("\\,", ",").replace("\\;", ";")
-            description = clean_desc(strip_html(ev.get("DESCRIPTION", "")))
+            raw_description = strip_tags(ev.get("DESCRIPTION", ""))
+            desc1, registration_url = extract_registration_url(raw_description)
+            desc2, lieu_from_desc = extract_location_line(desc1)
+            if not location and lieu_from_desc:
+                location = lieu_from_desc
+            description = clean_desc(collapse_whitespace(desc2))
 
             all_events.append({
                 "id": f"{uid}-{dtstart.isoformat()}",
@@ -83,6 +118,7 @@ def main():
                 "location": location,
                 "calendarKey": key,
                 "description": description,
+                "registrationUrl": registration_url,
             })
 
     all_events.sort(key=lambda e: e["start"])
