@@ -230,20 +230,23 @@
   }
 
   .month-marker{
-    position:relative;
-    margin: var(--sp-8) 0 var(--sp-7);
-    padding-bottom: 8px;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: var(--parme);
+    margin: 0;
+    padding: var(--sp-8) 0 var(--sp-3);
+    border-bottom: 2px solid var(--coral);
+    box-shadow: 0 4px 6px -4px rgba(21,26,77,0.08);
   }
-  .month-marker:first-child{ margin-top:0; }
-  .month-marker::before{
-    content:''; position:absolute; left:0; right:0; bottom:0; height:1px; background: var(--coral); opacity:0.9;
+  .month-marker:first-child{ padding-top:0; }
+  .month-marker .label-row{
+    margin-left: calc(var(--date-col) + var(--gutter));
+    display:flex; align-items:baseline; gap: var(--sp-3); flex-wrap:wrap;
   }
   .month-marker .label{
-    display:inline-block;
-    margin-left: calc(var(--date-col) + var(--gutter));
-    margin-bottom: 8px;
     font-family: var(--title); font-weight:700; text-transform:uppercase;
-    font-size: 15px; letter-spacing: 0.1em;
+    font-size: 20px; letter-spacing: 0.1em;
     color: var(--coral);
   }
 
@@ -251,13 +254,15 @@
     position:relative;
     display:grid;
     grid-template-columns: var(--date-col) var(--gutter) 1fr;
-    padding: var(--sp-6) 0 var(--sp-7);
+    padding: var(--sp-7) 0 var(--sp-8);
     transition: opacity 0.35s ease, transform 0.35s ease, background-color 0.15s ease;
     opacity:0; transform: translateY(8px);
   }
   .event:first-of-type{ padding-top:0; }
   .event:hover{ background: rgba(17,11,169,0.035); }
   .event.in-view{ opacity:1; transform:none; }
+  .event.tentative.in-view{ opacity:0.5; }
+  .event.tentative:hover{ opacity:0.85; }
   @media (prefers-reduced-motion: reduce){ .event{ opacity:1; transform:none; transition:none; } }
 
   .event-date{
@@ -271,7 +276,7 @@
 
   .event::before{
     content:'';
-    position:absolute; left: var(--line-x); top: calc(var(--sp-6) + 8px);
+    position:absolute; left: var(--line-x); top: calc(var(--sp-7) + 8px);
     transform: translateX(-50%);
     width:11px; height:11px; border-radius:50%;
     background: radial-gradient(circle at 35% 30%, #ff6b4a, var(--coral) 60%, var(--coral-deep) 100%);
@@ -357,6 +362,8 @@
     .masthead{ padding: var(--sp-6) 0 var(--sp-5); }
     .logo{ height:40px; }
     .subscribe-band{ padding: var(--sp-4); }
+    .share-band{ padding: var(--sp-4); }
+    .month-marker{ padding: var(--sp-6) 0 var(--sp-2); }
 
     .event{ row-gap: var(--sp-1); }
     .event-date{
@@ -906,7 +913,10 @@
         currentMonth = mKey;
         const marker = document.createElement('div');
         marker.className = 'month-marker';
-        marker.innerHTML = `<span class="label">${capitalize(mKey)}</span>`;
+        marker.innerHTML = `
+          <div class="label-row">
+            <span class="label">${capitalize(mKey)}</span>
+          </div>`;
         timeline.appendChild(marker);
       }
 
@@ -915,8 +925,9 @@
       const multiDay = isMultiDay(ev);
       const timeRange = multiDay ? formatDayRange(ev) : formatTimeRange(ev);
 
+      const isTentative = /\boption\b/i.test(ev.title);
       const article = document.createElement('article');
-      article.className = 'event';
+      article.className = `event${isTentative ? ' tentative' : ''}`;
 
       const registerBtn = ev.registrationUrl
         ? `<a class="btn-register" href="${ev.registrationUrl}" target="_blank" rel="noopener">S'inscrire ${iconArrow()}</a>`
