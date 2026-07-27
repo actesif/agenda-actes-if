@@ -267,6 +267,7 @@
   }
   .event-date .wd{ font-size:11px; font-weight:700; color:var(--navy-muted); text-transform:uppercase; letter-spacing:0.04em; }
   .event-date .day{ font-size:2.5rem; font-weight:800; color:var(--navy); line-height:1; }
+  .event-date .day.range{ font-size:1.5rem; line-height:1.2; }
   .event-date .mo{ font-size:11px; font-weight:700; color:var(--navy-muted); text-transform:uppercase; letter-spacing:0.04em; }
 
   .event::before{
@@ -739,6 +740,34 @@
 
   function capitalize(s){ return s.charAt(0).toUpperCase() + s.slice(1); }
 
+  function addDaysToISODate(isoDate, days){
+    const [y,m,d] = isoDate.split('-').map(Number);
+    const date = new Date(Date.UTC(y, m-1, d));
+    date.setUTCDate(date.getUTCDate() + days);
+    return date.toISOString().slice(0,10);
+  }
+
+  function inclusiveEndISODate(ev){
+    // La date de fin ICS d'un événement "journée entière" est exclusive
+    // (le lendemain du dernier jour) : on la recule d'un jour pour l'affichage.
+    if (!ev.allDay) return ev.end.slice(0,10);
+    return addDaysToISODate(ev.end.slice(0,10), -1);
+  }
+
+  function isMultiDay(ev){
+    if (!ev.allDay) return false;
+    return inclusiveEndISODate(ev) > ev.start.slice(0,10);
+  }
+
+  function formatDayRange(ev){
+    const p = parisParts(ev.start);
+    const pe = parisParts(inclusiveEndISODate(ev));
+    const sameMonth = p.month === pe.month;
+    return sameMonth
+      ? `Du ${p.day} au ${pe.day} ${pe.month}`
+      : `Du ${p.day} ${p.month} au ${pe.day} ${pe.month}`;
+  }
+
   function formatFullDate(ev){
     const p = parisParts(ev.start);
     return `${capitalize(p.weekday)} ${p.day} ${p.month}`;
@@ -885,7 +914,9 @@
 
       const cal = calByKey[ev.calendarKey] || CONFIG.categories[0];
       const p = parisParts(ev.start);
-      const timeRange = formatTimeRange(ev);
+      const multiDay = isMultiDay(ev);
+      const pe = multiDay ? parisParts(inclusiveEndISODate(ev)) : null;
+      const timeRange = multiDay ? formatDayRange(ev) : formatTimeRange(ev);
 
       const article = document.createElement('article');
       article.className = 'event';
@@ -897,13 +928,13 @@
       article.innerHTML = `
         <div class="event-date">
           <div class="wd">${p.weekday}</div>
-          <div class="day">${p.day}</div>
+          <div class="day${multiDay ? ' range' : ''}">${multiDay ? `${p.day}–${pe.day}` : p.day}</div>
           <div class="mo">${p.month}</div>
         </div>
         <div class="event-content">
           <div class="event-meta">
             <span class="event-cat cat-${cal.key}">${cal.shortLabel}</span>
-            ${timeRange ? `<span class="event-time">${iconClock()} ${timeRange}</span>` : ''}
+            ${timeRange ? `<span class="event-time">${multiDay ? iconCal() : iconClock()} ${timeRange}</span>` : ''}
           </div>
           <h3>${ev.title}</h3>
           ${ev.location ? `<p class="event-place">${iconPin()} ${ev.location}</p>` : ''}
