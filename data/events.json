@@ -7,7 +7,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": "https://fondation.michelin.com/proposer-un-projet/accueil"
+    "description": "https://fondation.michelin.com/proposer-un-projet/accueil",
+    "registrationUrl": null
   },
   {
     "id": "1v79pal2eqkqcco2ut135e1rjj@google.com-2026-09-07T10:00:00+02:00",
@@ -15,9 +16,10 @@
     "start": "2026-09-07T10:00:00+02:00",
     "end": "2026-09-07T13:00:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Maison des réseaux artistiques et culturels - 221 rue de Belleville              📄  Voir le   compte-rendu du dernier GT artistique - 15              juin   (bilan SUP / échanges sur l'intérêt d'un          fonds de production mutualisé)           💬 D'ici le 7 septembre : identifiez les compagnies que vous          aimeriez accompagner           📅 GT artistique : lundi 7 septembre, matin — Au programme          échange autour des équipes artistiques identifiées pour          participer à SUP ; poursuite de la réflexion autour d'un fond          de production mutualisé",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833"
   },
   {
     "id": "12qvl99dra58qebetker6hhhe0@google.com-2026-09-10T10:00:00+02:00",
@@ -27,7 +29,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "7urpdle9op8b9r65j1s5rdrkkr@google.com-2026-09-16T09:30:00+02:00",
@@ -37,7 +40,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "2344i5tn7aijhtd5qdp19bijvf@google.com-2026-09-18",
@@ -47,17 +51,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": ""
-  },
-  {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
-    "start": "2026-10-05",
-    "end": "2026-10-07",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
@@ -67,7 +62,19 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
+    "title": "Plateau G20",
+    "start": "2026-10-05",
+    "end": "2026-10-07",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "585m4g7od36n292i21pse07klg@google.com-2026-10-08T10:00:00+02:00",
@@ -77,7 +84,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "4ikpe58cds7l8s0vtqarm0v220@google.com-2026-10-13",
@@ -87,7 +95,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
@@ -97,7 +106,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "journée politique de la FéRue, mobilisons-nous pour redessiner ensemble les grandes actions de la fédé francilienne, nos priorités et nos forces."
+    "description": "journée politique de la FéRue, mobilisons-nous pour redessiner ensemble les grandes actions de la fédé francilienne, nos priorités et nos forces.",
+    "registrationUrl": null
   },
   {
     "id": "0a6uet8pogfo21qmr82r98mesr@google.com-2026-10-17T13:00:00+02:00",
@@ -107,7 +117,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "5srl21jjc7v4nqlpcuidgnf8ir@google.com-2026-10-19",
@@ -117,7 +128,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "0o80n0aml172h6pn6vbtimaoun@google.com-2026-10-22T10:00:00+02:00",
@@ -127,7 +139,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "0a3kdpi1nms35s2cn15i1pa3rt@google.com-2026-11-02T10:00:00+01:00",
@@ -137,7 +150,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
@@ -147,7 +161,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
@@ -157,7 +172,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "0losued9bp42vllfi4i3em48fm@google.com-2026-11-20",
@@ -167,7 +183,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
@@ -177,7 +194,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
@@ -187,7 +205,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "2111e8nit7mmqgllp8ca0mval8@google.com-2026-11-24",
@@ -197,7 +216,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "Rencontres professionnelles L'organisation de nos premières Rencontres professionnelles, qui se tiendront le 24 novembre à la Maison des Métallos (Paris), avance. Nous…"
+    "description": "Rencontres professionnelles L'organisation de nos premières Rencontres professionnelles, qui se tiendront le 24 novembre à la Maison des Métallos (Paris), avance. Nous…",
+    "registrationUrl": null
   },
   {
     "id": "7l5mamk5m7g91q08v43jvto9q2@google.com-2026-11-26",
@@ -207,7 +227,8 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "Hello tout le monde, Pour faire suite au rapide temps de ce matin en inter-réseaux, voici les infos concernant la proposition de participation collective à l'événement…"
+    "description": "Hello tout le monde, Pour faire suite au rapide temps de ce matin en inter-réseaux, voici les infos concernant la proposition de participation collective à l'événement…",
+    "registrationUrl": null
   },
   {
     "id": "0mh5defph6d6ppb8ttd759an9o@google.com-2026-12-03T10:00:00+01:00",
@@ -217,17 +238,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
-  },
-  {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
-    "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
@@ -237,7 +249,19 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
+    "start": "2026-12-10T10:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "63polumrda76mvhe898pgmi5cj@google.com-2026-12-17T10:00:00+01:00",
@@ -247,7 +271,8 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   },
   {
     "id": "0lu09f0dr0oardbhter6hj9r34@google.com-2027-01-12",
@@ -257,6 +282,7 @@
     "allDay": true,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": ""
+    "description": "",
+    "registrationUrl": null
   }
 ]
