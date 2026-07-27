@@ -21,6 +21,7 @@ CALENDARS = {
     "vie-asso":     "ju1pnmknkotcdp73h0qj04r2d8@group.calendar.google.com",
     "partenaires":  "n49s2qcfq130m5sbceo0if4di8@group.calendar.google.com",
     "subventions":  "6o2s2gk2d7npkdfeg6bjuvdts8@group.calendar.google.com",
+    "membres":      "b67bcec42779af9a91678c0b676998eb530b1932f0abff8bf3e80907e19e6f84@group.calendar.google.com",
 }
 
 FENETRE_JOURS = 365  # horizon : aujourd'hui -> +12 mois
