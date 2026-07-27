@@ -38,15 +38,21 @@ def strip_tags(text):
 
 
 def collapse_whitespace(text):
+    text = text.replace("\ufffc", " ")  # caractère invisible laissé par un lien Google Agenda retiré
     return re.sub(r"\s+", " ", text).strip()
 
 
 def extract_registration_url(text):
     """Cherche une ligne du type 'Inscription : https://...' dans la description
-    et la retire du texte affiché."""
+    et la retire du texte affiché. La capture se limite aux caractères valides
+    d'une URL, pour ne pas avaler ce qui suit si Google Agenda colle un caractère
+    invisible juste après le lien (ça arrive avec les liens insérés en riche texte)."""
     if not text:
         return text, None
-    match = re.search(r"inscription\s*:?\s*(https?://\S+)", text, re.IGNORECASE)
+    match = re.search(
+        r"inscription\s*:?\s*(https?://[A-Za-z0-9\-._~:/?#\[\]@!$&'()*+,;=%]+)",
+        text, re.IGNORECASE
+    )
     if not match:
         return text, None
     url = match.group(1).rstrip(").,;")
