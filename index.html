@@ -995,7 +995,8 @@
      ========================================================= */
   async function loadEvents(){
     try {
-      const res = await fetch(CONFIG.eventsJsonUrl, { cache: 'no-store' });
+      const bustedUrl = CONFIG.eventsJsonUrl + (CONFIG.eventsJsonUrl.includes('?') ? '&' : '?') + 'cachebust=' + Date.now();
+      const res = await fetch(bustedUrl, { cache: 'no-store' });
       if (!res.ok) throw new Error('events.json introuvable');
       return await res.json();
     } catch (e) {
