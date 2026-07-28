@@ -40,7 +40,7 @@
     "allDay": false,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "Un nouveau temps d'échanges ouverts entre membres du réseau, pour partager actualités, informations, envies et préoccupations du moment. Un rendez-vous convivial de deux heures pour échanger autrement, sans ordre du jour prédéfini ni objectif de production !",
     "registrationUrl": "https://beta.framadate.org/polls/b737168e2d0a544ac84b"
   },
   {
@@ -117,7 +117,7 @@
     "allDay": true,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "Lalala On teste Un peu Comme ça",
+    "description": "Bouclage de la programmation du prochain Sur Un Plateau : finalisation de la sélection des projets éligibles à l’aide à la création DRAC IDF.",
     "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833/e51702ca9ad1c6048e78/admin"
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
-    "title": "Journée politqiue de la FérUe",
+    "title": "Journée politique de la FéRue",
     "start": "2026-10-16",
     "end": "2026-10-17",
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "journée politique de la FéRue, mobilisons-nous pour redessiner ensemble les grandes actions de la fédé francilienne, nos priorités et nos forces.",
+    "description": "\"Journée politique de la FéRue, mobilisons-nous pour redessiner ensemble les grandes actions de la fédé francilienne, nos priorités et nos forces.\" Détails à venir.",
     "registrationUrl": null
   },
   {
@@ -172,7 +172,7 @@
     "allDay": false,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "Un temps d’échange entre membres pour se retrouver autour des enjeux politiques qui traversent nos lieux : actualités du secteur, évolutions institutionnelles, préoccupations communes et sujets à porter collectivement.",
     "registrationUrl": "https://beta.framadate.org/polls/5b4e1927176318998f98"
   },
   {
@@ -183,7 +183,7 @@
     "allDay": false,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "Dans la continuité du travail engagé par Actes If sur la prévention et la lutte contre les violences et harcèlements sexistes et sexuels (VHSS), ce groupe de travail poursuit la construction d’outils communs pour accompagner les lieux du réseau. Les échanges porteront notamment sur la rédaction d’une charte VHSS commune, la mutualisation de ressources et la mise en place d’une cellule de référent·es VHSS entre membres.",
     "registrationUrl": "https://beta.framadate.org/polls/838d8b65a4ba5fa797b4"
   },
   {
@@ -271,14 +271,14 @@
     "allDay": false,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "Ce groupe de travail vise à faire émerger une dynamique d’entraide entre les lieux du réseau autour des questions RH. Il accompagne la création d’une cellule thématique, le partage de ressources et la construction collective de ses modalités de fonctionnement.",
     "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -286,10 +286,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
