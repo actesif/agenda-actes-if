@@ -111,13 +111,15 @@ def fetch_calendar(calendar_id):
 # quelle dans une newsletter (Brevo, etc.) : les e-mails ne peuvent
 # pas afficher la page elle-même, mais une image, oui. Régénérée
 # automatiquement à chaque synchronisation, toujours à jour.
-# Trio corail (fond) / blanc (titres) / parme (mise en valeur des
-# catégories, horaires, lieu et du bandeau final).
+# Fond lavande (#D2C7FF) ; corail réservé aux surlignages (catégorie,
+# horaire, lieu, bandeau final) ; titres en marine ; coins arrondis ;
+# titre d'en-tête dans la vraie police d'affichage de la page
+# (Archivo Black, téléchargée à la volée, avec repli si indisponible).
 # ---------------------------------------------------------------
+LAVANDE = (210, 199, 255)
+NAVY = (17, 11, 169)
 CORAL = (255, 0, 0)
 WHITE = (255, 255, 255)
-PARME = (241, 238, 251)
-NAVY = (17, 11, 169)
 
 FONT_DIR = "/usr/share/fonts/truetype/liberation/"
 MONTHS_FR = ["janv.", "févr.", "mars", "avr.", "mai", "juin",
@@ -128,6 +130,21 @@ CAT_LABEL = {
     "subventions": "SUBVENTIONS",
     "membres": "ÉVÉNEMENTS MEMBRES",
 }
+
+ARCHIVO_URL = "https://raw.githubusercontent.com/google/fonts/main/ofl/archivoblack/ArchivoBlack-Regular.ttf"
+ARCHIVO_LOCAL = "ArchivoBlack-Regular.ttf"
+
+
+def _get_archivo(size):
+    """Police d'affichage réelle de la page (Archivo Black), récupérée à la
+    volée ; bascule sur une police de secours si le téléchargement échoue,
+    pour ne jamais faire échouer la synchronisation à cause d'une police."""
+    try:
+        if not os.path.exists(ARCHIVO_LOCAL):
+            urllib.request.urlretrieve(ARCHIVO_URL, ARCHIVO_LOCAL)
+        return ImageFont.truetype(ARCHIVO_LOCAL, size)
+    except Exception:
+        return ImageFont.truetype(FONT_DIR + "LiberationSans-Bold.ttf", size)
 
 
 def _font(name, size):
@@ -142,8 +159,6 @@ def _truncate(text, max_chars):
 
 
 def _draw_pin(d, x, y, color, size=13):
-    """Petit picto de localisation (tête ronde + pointe), comme sur la page HTML.
-    Retourne l'abscisse à partir de laquelle écrire le texte qui suit."""
     r = size * 0.32
     cx, cy = x + r, y + r
     d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=color)
@@ -151,10 +166,17 @@ def _draw_pin(d, x, y, color, size=13):
     return x + size + 6
 
 
+def _round_corners(img, radius=22):
+    img = img.convert("RGBA")
+    mask = Image.new("L", img.size, 0)
+    ImageDraw.Draw(mask).rounded_rectangle([0, 0, img.width - 1, img.height - 1], radius=radius, fill=255)
+    img.putalpha(mask)
+    return img
+
+
 def generate_preview_image(events, out_path):
-    """Génère l'image de prévisualisation : fond corail, titres en blanc,
-    catégories/horaires/lieu mis en valeur en parme, bandeau final pleine
-    largeur en parme — sans logo ni pictogramme, sur demande."""
+    """Fond lavande, surlignages corail (catégorie/horaire/lieu/bandeau),
+    titres en marine, coins arrondis, titre d'en-tête en Archivo Black."""
     upcoming = events[:3]
     if not upcoming:
         return
@@ -162,7 +184,7 @@ def generate_preview_image(events, out_path):
     W = 640
     pad_x = 36
 
-    f_header = _font("LiberationSans-Bold.ttf", 20)
+    f_header = _get_archivo(24)
     f_cat = _font("LiberationSans-Bold.ttf", 13)
     f_date = _font("LiberationSans-Bold.ttf", 15)
     f_title = _font("LiberationSans-Bold.ttf", 25)
@@ -172,18 +194,16 @@ def generate_preview_image(events, out_path):
     row_gap = 28
     row_heights = [24 + 8 + 32 + (22 if ev.get("location") else 0) + row_gap for ev in upcoming]
     top_pad = 34
-    header_h = 30 + 26
+    header_h = 34 + 20
     bar_h = 58
     H = top_pad + header_h + sum(row_heights) + bar_h + 10
 
-    img = Image.new("RGB", (W, H), CORAL)
+    img = Image.new("RGB", (W, H), LAVANDE)
     d = ImageDraw.Draw(img)
 
-    d.text((pad_x, top_pad), "AGENDA PARTAGÉ DU RÉSEAU ACTES IF", font=f_header, fill=WHITE)
-    rule_y = top_pad + 30 + 12
-    d.line([(pad_x, rule_y), (W - pad_x, rule_y)], fill=PARME, width=1)
+    d.text((pad_x, top_pad), "AGENDA PARTAGÉ DU RÉSEAU ACTES IF", font=f_header, fill=CORAL)
 
-    y = rule_y + 22
+    y = top_pad + header_h
     for idx, (ev, row_h) in enumerate(zip(upcoming, row_heights)):
         dt = (datetime.datetime.fromisoformat(ev["start"][:19]) if "T" in ev["start"]
               else datetime.datetime.strptime(ev["start"], "%Y-%m-%d"))
@@ -191,34 +211,35 @@ def generate_preview_image(events, out_path):
         label = CAT_LABEL.get(ev["calendarKey"], "")
         cat_bbox = d.textbbox((0, 0), label, font=f_cat)
         cat_w = cat_bbox[2] - cat_bbox[0] + 16
-        d.rounded_rectangle([pad_x, y, pad_x + cat_w, y + 22], radius=5, fill=PARME)
-        d.text((pad_x + 8, y + 4), label, font=f_cat, fill=NAVY)
+        d.rounded_rectangle([pad_x, y, pad_x + cat_w, y + 22], radius=5, fill=CORAL)
+        d.text((pad_x + 8, y + 4), label, font=f_cat, fill=WHITE)
 
         date_txt = f"{dt.day} {MONTHS_FR[dt.month - 1]}"
         if not ev.get("allDay") and "T" in ev["start"]:
             date_txt += f" · {dt.hour:02d}h{dt.minute:02d}"
-        d.text((pad_x + cat_w + 10, y + 3), date_txt, font=f_date, fill=PARME)
+        d.text((pad_x + cat_w + 10, y + 3), date_txt, font=f_date, fill=CORAL)
 
         y += 34
-        d.text((pad_x, y), _truncate(ev["title"], 42), font=f_title, fill=WHITE)
+        d.text((pad_x, y), _truncate(ev["title"], 42), font=f_title, fill=NAVY)
         y += 32
 
         if ev.get("location"):
-            next_x = _draw_pin(d, pad_x, y + 3, PARME, size=13)
-            d.text((next_x, y), _truncate(ev["location"], 46), font=f_meta, fill=PARME)
+            next_x = _draw_pin(d, pad_x, y + 3, CORAL, size=13)
+            d.text((next_x, y), _truncate(ev["location"], 46), font=f_meta, fill=CORAL)
             y += 22
 
         y += row_gap
         if idx < len(upcoming) - 1:
-            d.line([(pad_x, y - 16), (W - pad_x, y - 16)], fill=PARME, width=1)
+            d.line([(pad_x, y - 16), (W - pad_x, y - 16)], fill=CORAL, width=1)
 
     bar_y = H - bar_h
-    d.rectangle([0, bar_y, W, H], fill=PARME)
+    d.rectangle([0, bar_y, W, H], fill=CORAL)
     cta = "Voir tout l'agenda du réseau →"
     bbox = d.textbbox((0, 0), cta, font=f_cta)
     tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
-    d.text(((W - tw) / 2, bar_y + (bar_h - th) / 2 - bbox[1]), cta, font=f_cta, fill=NAVY)
+    d.text(((W - tw) / 2, bar_y + (bar_h - th) / 2 - bbox[1]), cta, font=f_cta, fill=WHITE)
 
+    img = _round_corners(img, radius=22)
     img.save(out_path)
 
 
