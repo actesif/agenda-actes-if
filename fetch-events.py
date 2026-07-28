@@ -16,6 +16,7 @@ from urllib.parse import quote
 
 import icalendar
 import recurring_ical_events
+from PIL import Image, ImageDraw, ImageFont
 
 CALENDARS = {
     "vie-asso":     "ju1pnmknkotcdp73h0qj04r2d8@group.calendar.google.com",
@@ -105,6 +106,91 @@ def fetch_calendar(calendar_id):
         return resp.read()
 
 
+# ---------------------------------------------------------------
+# Image de prévisualisation (data/preview.png) — à insérer telle
+# quelle dans une newsletter (Brevo, etc.) : les e-mails ne peuvent
+# pas afficher la page elle-même, mais une image, oui. Régénérée
+# automatiquement à chaque synchronisation, toujours à jour.
+# ---------------------------------------------------------------
+NAVY = (17, 11, 169)
+NAVY_DEEP = (12, 8, 122)
+CORAL = (255, 0, 0)
+WHITE = (255, 255, 255)
+MUTED = (176, 172, 232)
+
+FONT_DIR = "/usr/share/fonts/truetype/liberation/"
+CAT_DOT_COLOR = {
+    "vie-asso": (255, 255, 255),
+    "partenaires": (198, 168, 255),
+    "subventions": (255, 176, 214),
+    "membres": (255, 140, 120),
+}
+MONTHS_FR = ["JANV.", "FÉVR.", "MARS", "AVR.", "MAI", "JUIN",
+             "JUIL.", "AOÛT", "SEPT.", "OCT.", "NOV.", "DÉC."]
+
+
+def _font(name, size):
+    try:
+        return ImageFont.truetype(FONT_DIR + name, size)
+    except Exception:
+        return ImageFont.load_default()
+
+
+def _truncate(text, max_chars):
+    return text if len(text) <= max_chars else text[:max_chars - 1].rstrip() + "…"
+
+
+def generate_preview_image(events, out_path):
+    """events : liste déjà triée, événements confirmés et à venir uniquement."""
+    upcoming = events[:3]
+    if not upcoming:
+        return  # rien à montrer, pas d'image générée
+
+    W, H = 600, 460
+    img = Image.new("RGB", (W, H), NAVY)
+    d = ImageDraw.Draw(img)
+
+    f_label = _font("LiberationSans-Bold.ttf", 20)
+    f_brand = _font("LiberationSans-Bold.ttf", 34)
+    f_date = _font("LiberationSans-Bold.ttf", 26)
+    f_title = _font("LiberationSans-Bold.ttf", 24)
+    f_meta = _font("LiberationSans-Regular.ttf", 18)
+    f_cta = _font("LiberationSans-Bold.ttf", 20)
+
+    d.rectangle([0, 0, W, 84], fill=NAVY_DEEP)
+    d.text((28, 18), "AGENDA DU RÉSEAU", font=f_label, fill=CORAL)
+    d.text((28, 44), "ACTES IF", font=f_brand, fill=WHITE)
+
+    y = 104
+    row_h = 100
+    for ev in upcoming:
+        dt = (datetime.datetime.fromisoformat(ev["start"][:19]) if "T" in ev["start"]
+              else datetime.datetime.strptime(ev["start"], "%Y-%m-%d"))
+
+        d.ellipse([28, y + 8, 40, y + 20], fill=CAT_DOT_COLOR.get(ev["calendarKey"], WHITE))
+        d.text((56, y), f"{dt.day} {MONTHS_FR[dt.month - 1]}", font=f_date, fill=WHITE)
+        d.text((56, y + 36), _truncate(ev["title"], 34), font=f_title, fill=WHITE)
+
+        meta_parts = []
+        if not ev.get("allDay") and "T" in ev["start"]:
+            meta_parts.append(f"{dt.hour:02d}h{dt.minute:02d}")
+        if ev.get("location"):
+            meta_parts.append(_truncate(ev["location"], 24))
+        if meta_parts:
+            d.text((56, y + 66), "  ·  ".join(meta_parts), font=f_meta, fill=MUTED)
+
+        y += row_h
+        if ev != upcoming[-1]:
+            d.line([(28, y - 16), (W - 28, y - 16)], fill=NAVY_DEEP, width=1)
+
+    d.rectangle([0, H - 56, W, H], fill=CORAL)
+    cta = "VOIR TOUT L'AGENDA DU RÉSEAU →"
+    bbox = d.textbbox((0, 0), cta, font=f_cta)
+    d.text(((W - (bbox[2] - bbox[0])) / 2, H - 56 + 16), cta, font=f_cta, fill=WHITE)
+
+    img.save(out_path)
+
+
 def main():
     start_window = datetime.date.today()
     end_window = start_window + datetime.timedelta(days=FENETRE_JOURS)
@@ -148,6 +234,14 @@ def main():
         json.dump(all_events, f, ensure_ascii=False, indent=2)
 
     print(f"{len(all_events)} événements écrits dans data/events.json")
+
+    today = datetime.date.today().isoformat()
+    upcoming_confirmed = [
+        e for e in all_events
+        if e["end"][:10] >= today and not re.search(r"\boption\b", e["title"], re.IGNORECASE)
+    ]
+    generate_preview_image(upcoming_confirmed, "data/preview.png")
+    print("data/preview.png généré")
 
 
 if __name__ == "__main__":
