@@ -2,8 +2,8 @@ name: Actualiser l'agenda Actes if
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch:
+    - cron: '0 */3 * * *'   # toutes les 3 heures
+  workflow_dispatch:         # bouton "Run workflow" manuel dans l'onglet Actions
 
 permissions:
   contents: write
@@ -13,14 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install icalendar recurring-ical-events
+
+      - run: pip install icalendar recurring-ical-events Pillow
+
       - run: python fetch-events.py
+
       - run: |
           git config user.name "actes-if-bot"
           git config user.email "actes-if-bot@users.noreply.github.com"
-          git add data/events.json
+          git add data/events.json data/preview.png
           git diff --staged --quiet || git commit -m "Mise à jour automatique de l'agenda"
           git push
