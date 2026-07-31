@@ -1,7 +1,7 @@
 [
   {
     "id": "26v2err01gralld8hac6oe8nr8@google.com-2026-08-31",
-    "title": "Dépôt fondation Michelin",
+    "title": "Subv Réseau - deadline fondation Michelin",
     "start": "2026-08-31",
     "end": "2026-09-01",
     "allDay": true,
@@ -44,14 +44,14 @@
     "registrationUrl": "https://beta.framadate.org/polls/b737168e2d0a544ac84b"
   },
   {
-    "id": "2344i5tn7aijhtd5qdp19bijvf@google.com-2026-09-18",
-    "title": "APAC CAC",
-    "start": "2026-09-18",
-    "end": "2026-09-19",
-    "allDay": true,
+    "id": "2344i5tn7aijhtd5qdp19bijvf@google.com-2026-09-18T09:30:00+02:00",
+    "title": "Assemblée Permanente des Associations Citoyennes",
+    "start": "2026-09-18T09:30:00+02:00",
+    "end": "2026-09-18T18:30:00+02:00",
+    "allDay": false,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "",
+    "description": "Les APAC (Assemblées Permanentes des Associations Citoyennes), organisées par le Collectif des Associations Citoyennes (CAC) sont des réunions publiques, ouvertes à tous.tes qui ont lieu tous les trimestres. La prochaine Assemblées Permanentes des Associations Citoyennes (dite « APAC ») aura lieu le vendredi 18 septembre 2026 de 9h45 à 16h à Montreuil (93) & en visio. Première base de programme9h30-9h50 Accueil thé/café + Présentation de la journée 9h50-10h30 Temps d’interconnaissance & Partage des agendas et actualités autour de deux thématiques : la lutte contre le RN et les mobilisations en vue des présidentielles 10h30-12h Temps de travail en plénières et ensuite sous-groupe sur la construction du programme des associations citoyennes pour les présidentielles. A travers les revendications des différents réseaux et associations, extraire des points communs et des revendications convergentes. 12h-13h Quelle proposition de loi pour renforcer la mission d’interpellation des associations dans une visée d’éducation populaire ? Présentation et débat autour de la proposition de loi portée par les professionnels de l’éducation populaire de la CGT. (temps possible en visio). 13h-14h30 Déjeuner en mode auberge espagnole avec ce que chacun.e aura amené 14h30-16h Propositions d’ateliers :Quelles émissions pour un cycle sur l’apport des associations citoyennes à l’action publique dans la perspective des présidentielles ? Comment construire un socle de sérénité pour les associations citoyennes – la piste d’une sécurité sociale des associations ? Atelier permanent d’entraide mutuelle 16h Mot de clôture Pause 16h15-18h30 Assemblée Générale Extraordinaire de modification des statuts Détails et inscriptions : https://www.associations-citoyennes.net/apac-assemblee-permanente-du-cac-18-sept/",
     "registrationUrl": null
   },
   {
@@ -77,14 +77,14 @@
     "registrationUrl": "https://www.helloasso.com/associations/madamelune/evenements/cie-madamelune"
   },
   {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05",
-    "title": "Séminaire annuel UFISC",
-    "start": "2026-10-05",
-    "end": "2026-10-07",
-    "allDay": true,
+    "id": "302de5b3tiskua0tla9att7poh@google.com-2026-09-29T19:00:00+02:00",
+    "title": "Présentation de saison La Nef",
+    "start": "2026-09-29T19:00:00+02:00",
+    "end": "2026-09-29T19:30:00+02:00",
+    "allDay": false,
     "location": "",
-    "calendarKey": "partenaires",
-    "description": "",
+    "calendarKey": "membres",
+    "description": "RDV à la rentrée pour notre présentation de saison MARDI 29 SEPTEMBRE A partir de 19h Déambulation, impromptus, buffet...",
     "registrationUrl": null
   },
   {
@@ -95,7 +95,18 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "",
+    "description": "L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau Plus de détail : https://www.g20iledefrance.fr/les-plateaux-2026/",
+    "registrationUrl": null
+  },
+  {
+    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05T10:00:00+02:00",
+    "title": "Séminaire annuel UFISC",
+    "start": "2026-10-05T10:00:00+02:00",
+    "end": "2026-10-06T18:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Le séminaire annuel de l'USFIC est un temps de rencontre entre les réseaux et fédérations de l'UFISC ouvertes à l'ensemble de leurs membres. Programme et lieu à venir",
     "registrationUrl": null
   },
   {
@@ -150,12 +161,12 @@
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "A l'occasion de l'évènement anniversaire des 20 ans du collectif Curry Vavart et des 15 ans du Shakirail, Actes If organise une table ronde en après-midi sur Les lieux artistiques et culturelscitoyens solidaires à Paris Plus de détails à venir",
     "registrationUrl": null
   },
   {
     "id": "5srl21jjc7v4nqlpcuidgnf8ir@google.com-2026-10-19",
-    "title": "Prépa demande aide au réseau et bilan",
+    "title": "Subv réseau - aide aux réseaux francilien dans le domaine du spectacle vivant - Région Ile-de-france",
     "start": "2026-10-19",
     "end": "2026-10-20",
     "allDay": true,
@@ -220,19 +231,19 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "prépa demande acccompagnement artistique mutualisé région idf",
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": "",
+    "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "fondation crédit coopératif prix de l'inspiration en ess",
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
     "end": "2026-11-24",
     "allDay": true,
@@ -254,7 +265,7 @@
   },
   {
     "id": "7l5mamk5m7g91q08v43jvto9q2@google.com-2026-11-26",
-    "title": "KISS",
+    "title": "Kermesse de l'Immobilier Social et Solidaire",
     "start": "2026-11-26",
     "end": "2026-11-27",
     "allDay": true,
@@ -265,7 +276,7 @@
   },
   {
     "id": "0mh5defph6d6ppb8ttd759an9o@google.com-2026-12-03T10:00:00+01:00",
-    "title": "GT RH",
+    "title": "GT Fonction Employeur et prévention des risques",
     "start": "2026-12-03T10:00:00+01:00",
     "end": "2026-12-03T13:00:00+01:00",
     "allDay": false,
@@ -275,10 +286,10 @@
     "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -286,10 +297,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
