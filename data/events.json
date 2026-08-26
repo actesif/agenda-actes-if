@@ -66,15 +66,26 @@
     "registrationUrl": null
   },
   {
-    "id": "6ioo7jjflk5ue4tc6dqi9ak246@google.com-2026-09-24",
-    "title": "J'adore ma vie / Pavillon de Romainville",
-    "start": "2026-09-24",
-    "end": "2026-09-27",
+    "id": "6uokqq9pqnc11prkf7kq9i85qo@google.com-2026-09-22",
+    "title": "Festival Onde  de coop - Faisons collectif face aux violences capitalistes",
+    "start": "2026-09-22",
+    "end": "2026-09-23",
     "allDay": true,
     "location": "",
-    "calendarKey": "membres",
-    "description": "",
-    "registrationUrl": "https://www.helloasso.com/associations/madamelune/evenements/cie-madamelune"
+    "calendarKey": "partenaires",
+    "description": "Le livre tant attendu du TRANSISCOPE (portail web des alternatives) aura pour titre \"ALTERNATIVES ET LUTTES - Cartographier pour coopérer\" et sortira le 22 septembre 2026 à l'occasion d’Onde de Coop - réservez la date !",
+    "registrationUrl": null
+  },
+  {
+    "id": "3b34giap3qjaprkp58f5g1g0lb@google.com-2026-09-24T09:00:00+02:00",
+    "title": "Journée de la co-construction citoyenne - CAC, CTCT, Labo de l'ESS",
+    "start": "2026-09-24T09:00:00+02:00",
+    "end": "2026-09-24T18:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Face aux urgences écologiques, sociales et démocratiques, la coopération active (entre les associations, les citoyen·nes, le monde de la recherche et les décideur·ses politiques) n’est plus une option : c’est le moteur du changement ! Le Collectif pour une Transition Citoyenne (CTC), le Collectif des Associations Citoyennes (CAC) et le Labo de l’ESS s’associent pour vous inviter à une grande journée de travail, de décryptage et de rencontres: Journée de la Co-construction Citoyenne jeudi 24 septembre 2026, 9h-19h Au Jardin des Traverses – Boulevard Ney 75018 ParisINFORMATIONs & INSCRIPTION",
+    "registrationUrl": null
   },
   {
     "id": "302de5b3tiskua0tla9att7poh@google.com-2026-09-29T19:00:00+02:00",
@@ -85,6 +96,17 @@
     "location": "",
     "calendarKey": "membres",
     "description": "RDV à la rentrée pour notre présentation de saison MARDI 29 SEPTEMBRE A partir de 19h Déambulation, impromptus, buffet...",
+    "registrationUrl": null
+  },
+  {
+    "id": "263r12k5dpkfs0vl8s63hjmn2h@google.com-2026-09-30",
+    "title": "Rencontres du cinéma argentique L'abominable",
+    "start": "2026-09-30",
+    "end": "2026-10-04",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "Programme des Rencontres Mercredi 30 septembre – Projections - cinéma L’Écran à Saint-Denis 18h30 Discussion avec le ministère de la Culture et les cinéastes invités sur les pratiques du cinéma argentique et le patrimoine culturel immatériel 19h15 - Projection de Un Chant Aveugle, de Stefano Canapa et Natacha Muslera (16mm sur DCP, 63 min, 2026) 20h30 Entracte autour d'un verre 21h00 Projection de Hair, Paper, Water, de Nicolas Graux et Truong Minh Quy (16mm sur DCP, 71min, 2025) Jeudi 1 octobre – Rencontres Jour 1 - MSH Nord à Saint-Denis 9h30 – 12h15 Plénière Le cinéma argentique comme patrimoine culturel immatériel (ouvert au public) 14h00 – 15h00 Balade urbaine : à la découverte des industries techniques du cinéma de la Plaine Saint-Denis (ouvert au public, sur inscription) 14h00 - 18h00 Ateliers mesures de sauvegarde (sur invitation) : « Formations »; « Cinéastes », « Machines et Matériels » et « Conservation et Restauration » Vendredi 2 octobre – Rencontres Jour 2 - MSH Nord à Saint-Denis 9h00 – 13h30 Ateliers mesures de sauvegarde (sur invitation) : « Prise de vues », « Laboratoires », « Distribution et Projection » et « Amateurs et Collectionneurs » 15h00 -17h00 Plénière : Restitution des mesures de sauvegarde (ouvert au public) 17h00 Temps d’échange autour d’un verre Samedi 3 octobre – Visite - Laboratoires Éclair à Épinay-sur-Seine 10h30 Visite du Navire Argo (ouvert au public, sur inscription) Programme complet des Rencontres du cinema argentique Lien d’inscription pour les temps publics des Rencontres du cinéma argentique",
     "registrationUrl": null
   },
   {
@@ -118,6 +140,17 @@
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
     "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "01ir5can86gtf48r3b61br1f5a@google.com-2026-10-09T11:00:00+02:00",
+    "title": "ANTL - webinaire AAP européen Tiers-Lieux",
+    "start": "2026-10-09T11:00:00+02:00",
+    "end": "2026-10-10T00:30:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "WEBINAIRE APPELS À PROJETS EUROPÉENS Financements européens en cours ou futurs, retours d'expérience par les paires, réponses à vos questions : L'Association Nationale des Tiers-Lieux s'associe à Relais Culture Europe, Europe Créative et l'Agence Erasmus pour un webinaire d'information et de d'échange sur certains fonds européens qui peuvent soutenir les tiers-lieux. Au programme : la présentation des appels « Culture Moves Europe » et « Coopération » du volet Culture d'Europe Créative, ainsi que du programme Erasmus+, des témoignages de tiers-lieux et de réseaux qui sont déjà passés par là, et un temps dédié pour poser vos questions sur ces fonds. Rendez-vous le 9 octobre 2026 de 11h à 12h30 : inscrivez-vous dès maintenant, le lien de connexion vous sera envoyé juste avant. Ce webinaire s'adresse aux tiers-lieux et à leurs réseaux JE PARTICIPE AU WEBINAIRE",
     "registrationUrl": null
   },
   {
@@ -231,17 +264,6 @@
     "registrationUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "",
-    "registrationUrl": null
-  },
-  {
     "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
     "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
@@ -250,6 +272,17 @@
     "location": "",
     "calendarKey": "subventions",
     "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
+    "registrationUrl": null
+  },
+  {
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "",
     "registrationUrl": null
   },
   {
