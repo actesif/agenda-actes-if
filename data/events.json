@@ -264,17 +264,6 @@
     "registrationUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
-    "registrationUrl": null
-  },
-  {
     "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
     "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
@@ -283,6 +272,17 @@
     "location": "",
     "calendarKey": "subventions",
     "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
     "registrationUrl": null
   },
   {
@@ -319,10 +319,10 @@
     "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -330,10 +330,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
