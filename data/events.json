@@ -1,16 +1,5 @@
 [
   {
-    "id": "26v2err01gralld8hac6oe8nr8@google.com-2026-08-31",
-    "title": "Subv Réseau - deadline fondation Michelin",
-    "start": "2026-08-31",
-    "end": "2026-09-01",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "https://fondation.michelin.com/proposer-un-projet/accueil",
-    "registrationUrl": null
-  },
-  {
     "id": "1v79pal2eqkqcco2ut135e1rjj@google.com-2026-09-07T10:00:00+02:00",
     "title": "GT artistique",
     "start": "2026-09-07T10:00:00+02:00",
@@ -330,10 +319,10 @@
     "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -341,10 +330,10 @@
     "registrationUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -370,6 +359,17 @@
     "allDay": true,
     "location": "",
     "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null
+  },
+  {
+    "id": "71ho1ihvo0kiku0qa6prvc3of2@google.com-2027-06-28",
+    "title": "Fondation Michelin veille pour fin aout",
+    "start": "2027-06-28",
+    "end": "2027-06-29",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
     "description": "",
     "registrationUrl": null
   }
