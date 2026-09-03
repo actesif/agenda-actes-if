@@ -325,6 +325,7 @@
   .desc-toggle:hover{ color: var(--navy); }
 
   .event-actions{ display:flex; flex-direction:column; align-items:flex-start; gap: var(--sp-2); }
+  .primary-actions{ display:flex; flex-wrap:wrap; gap: var(--sp-2); }
   .btn-register{
     display:inline-flex; align-items:center; gap:5px;
     background: var(--coral); color:#fff; font-weight:700; font-size:0.8rem;
@@ -334,6 +335,16 @@
   .btn-register:hover{ background: var(--navy); }
   .btn-register:active{ transform: scale(0.97); }
   .btn-register svg{ width:11px; height:11px; }
+
+  .btn-info{
+    display:inline-flex; align-items:center; gap:5px;
+    background: transparent; color: var(--coral-deep); font-weight:700; font-size:0.8rem;
+    padding: 4px 11px; border-radius: var(--radius-pill); text-decoration:none;
+    border: 1.5px solid var(--coral); box-sizing: border-box;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+  .btn-info:hover{ background: var(--coral); color:#fff; }
+  .btn-info svg{ width:11px; height:11px; }
 
   .secondary-actions{ display:flex; flex-wrap:wrap; align-items:center; gap: var(--sp-2); }
   .link-btn{
@@ -932,6 +943,9 @@
       const registerBtn = ev.registrationUrl
         ? `<a class="btn-register" href="${ev.registrationUrl}" target="_blank" rel="noopener">S'inscrire ${iconArrow()}</a>`
         : '';
+      const infoBtn = ev.infoUrl
+        ? `<a class="btn-info" href="${ev.infoUrl}" target="_blank" rel="noopener">Infos ${iconArrow()}</a>`
+        : '';
 
       article.innerHTML = `
         <div class="event-date">
@@ -948,7 +962,7 @@
           ${ev.location ? `<p class="event-place">${iconPin()} ${ev.location}</p>` : ''}
           ${ev.description ? `<p class="event-desc${ev.description.length > 140 ? ' clamped' : ''}">${ev.description}</p>` : ''}
           <div class="event-actions">
-            ${registerBtn}
+            ${(registerBtn || infoBtn) ? `<div class="primary-actions">${registerBtn}${infoBtn}</div>` : ''}
             <div class="secondary-actions">
               <a class="link-btn" href="${googleEventLink(ev)}" target="_blank" rel="noopener" title="Ajoute cet événement à votre propre agenda Google">Google Agenda</a>
               <a class="link-btn" href="${outlookEventLink(ev)}" target="_blank" rel="noopener" title="Ajoute cet événement à votre propre agenda Outlook">Outlook</a>
