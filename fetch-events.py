@@ -70,6 +70,22 @@ def extract_registration_url(text):
     return cleaned, url
 
 
+def extract_info_url(text):
+    """Cherche une ligne du type 'Infos : https://...' dans la description
+    et la retire du texte affiché — même principe qu'Inscription."""
+    if not text:
+        return text, None
+    match = re.search(
+        r"\binfos?\s*:?\s*(https?://[A-Za-z0-9\-._~:/?#\[\]@!$&'()*+,;=%]+)",
+        text, re.IGNORECASE
+    )
+    if not match:
+        return text, None
+    url = match.group(1).rstrip(").,;")
+    cleaned = (text[:match.start()] + text[match.end():]).strip()
+    return cleaned, url
+
+
 def extract_location_line(text):
     """Cherche une ligne du type 'Lieu : ...' dans la description
     et la retire du texte affiché. S'arrête à la fin de ligne, ou avant
@@ -262,7 +278,8 @@ def main():
             location = str(ev.get("LOCATION", "") or "").replace("\\,", ",").replace("\\;", ";")
             raw_description = strip_tags(ev.get("DESCRIPTION", ""))
             desc1, registration_url = extract_registration_url(raw_description)
-            desc2, lieu_from_desc = extract_location_line(desc1)
+            desc1b, info_url = extract_info_url(desc1)
+            desc2, lieu_from_desc = extract_location_line(desc1b)
             if not location and lieu_from_desc:
                 location = lieu_from_desc
             description = clean_desc(collapse_whitespace(desc2))
@@ -277,6 +294,7 @@ def main():
                 "calendarKey": key,
                 "description": description,
                 "registrationUrl": registration_url,
+                "infoUrl": info_url,
             })
 
     all_events.sort(key=lambda e: e["start"])
