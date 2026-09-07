@@ -168,6 +168,18 @@
     "infoUrl": null
   },
   {
+    "id": "45vv8bh7jpfl8mjp30hrglr3sl@google.com-2026-09-30",
+    "title": "Institut Français - Programme international de diffusion artistique (PIDA)",
+    "start": "2026-09-30",
+    "end": "2026-10-01",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "🗓️ Dépôt jusqu’au 30 octobre 2026 Ce programme soutient aussi bien la diffusion, la coopération internationale, que la participation d’artistes français à des événements majeurs dédiés à la création contemporaine dans le monde.",
+    "registrationUrl": null,
+    "infoUrl": "https://www.artcena.fr/fil-vie-pro/programme-international-de-diffusion-artistique-pida-2027"
+  },
+  {
     "id": "263r12k5dpkfs0vl8s63hjmn2h@google.com-2026-09-30",
     "title": "Rencontres du cinéma argentique L'abominable",
     "start": "2026-09-30",
@@ -178,18 +190,6 @@
     "description": "Programme des Rencontres Mercredi 30 septembre – Projections - cinéma L’Écran à Saint-Denis 18h30 Discussion avec le ministère de la Culture et les cinéastes invités sur les pratiques du cinéma argentique et le patrimoine culturel immatériel 19h15 - Projection de Un Chant Aveugle, de Stefano Canapa et Natacha Muslera (16mm sur DCP, 63 min, 2026) 20h30 Entracte autour d'un verre 21h00 Projection de Hair, Paper, Water, de Nicolas Graux et Truong Minh Quy (16mm sur DCP, 71min, 2025) Jeudi 1 octobre – Rencontres Jour 1 - MSH Nord à Saint-Denis 9h30 – 12h15 Plénière Le cinéma argentique comme patrimoine culturel immatériel (ouvert au public) 14h00 – 15h00 Balade urbaine : à la découverte des industries techniques du cinéma de la Plaine Saint-Denis (ouvert au public, sur inscription) 14h00 - 18h00 Ateliers mesures de sauvegarde (sur invitation) : « Formations »; « Cinéastes », « Machines et Matériels » et « Conservation et Restauration » Vendredi 2 octobre – Rencontres Jour 2 - MSH Nord à Saint-Denis 9h00 – 13h30 Ateliers mesures de sauvegarde (sur invitation) : « Prise de vues », « Laboratoires », « Distribution et Projection » et « Amateurs et Collectionneurs » 15h00 -17h00 Plénière : Restitution des mesures de sauvegarde (ouvert au public) 17h00 Temps d’échange autour d’un verre Samedi 3 octobre – Visite - Laboratoires Éclair à Épinay-sur-Seine 10h30 Visite du Navire Argo (ouvert au public, sur inscription)",
     "registrationUrl": "https://www.l-abominable.org?mailpoet_router&endpoint=track&action=click&data=WyI5OTg4IiwiODRmN2U3IiwiODEiLCI0NmQ1MjY5ZTc0MzAiLGZhbHNlXQ",
     "infoUrl": null
-  },
-  {
-    "id": "45vv8bh7jpfl8mjp30hrglr3sl@google.com-2026-09-30T18:27:00+00:00",
-    "title": "Institut Français - Programme international de diffusion artistique (PIDA)",
-    "start": "2026-09-30T18:27:00+00:00",
-    "end": "2026-09-30T19:27:00+00:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "🗓️ Dépôt jusqu’au 30 octobre 2026 Ce programme soutient aussi bien la diffusion, la coopération internationale, que la participation d’artistes français à des événements majeurs dédiés à la création contemporaine dans le monde.",
-    "registrationUrl": null,
-    "infoUrl": "https://www.artcena.fr/fil-vie-pro/programme-international-de-diffusion-artistique-pida-2027"
   },
   {
     "id": "14ren2p322t9blhdgkd0fiqlr1@google.com-2026-10-03",
@@ -252,11 +252,11 @@
     "infoUrl": null
   },
   {
-    "id": "4ikpe58cds7l8s0vtqarm0v220@google.com-2026-10-12",
-    "title": "Option GT artistique",
-    "start": "2026-10-12",
-    "end": "2026-10-13",
-    "allDay": true,
+    "id": "4ikpe58cds7l8s0vtqarm0v220@google.com-2026-10-13T10:00:00+02:00",
+    "title": "GT artistique",
+    "start": "2026-10-13T10:00:00+02:00",
+    "end": "2026-10-13T13:00:00+02:00",
+    "allDay": false,
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
     "description": "Bouclage de la programmation du prochain Sur Un Plateau : finalisation de la sélection des projets éligibles à l’aide à la création DRAC IDF.",
@@ -360,18 +360,6 @@
     "infoUrl": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null
-  },
-  {
     "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
     "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
     "start": "2026-11-23",
@@ -380,6 +368,18 @@
     "location": "",
     "calendarKey": "subventions",
     "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
+    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "",
     "registrationUrl": null,
     "infoUrl": null
   },
@@ -420,10 +420,10 @@
     "infoUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -432,10 +432,10 @@
     "infoUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
