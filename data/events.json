@@ -32,7 +32,7 @@
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
     "description": "Un nouveau temps d'échange convivial par trimestre, autour d'une thématique ou non, pour partager actualités, informations, envies et préoccupations du moment, sans ordre du jour prédéfini ni objectif de production !",
-    "registrationUrl": "https://beta.framadate.org/polls/b737168e2d0a544ac84b",
+    "registrationUrl": null,
     "infoUrl": null
   },
   {
@@ -408,10 +408,10 @@
     "infoUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -420,10 +420,10 @@
     "infoUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
