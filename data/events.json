@@ -264,6 +264,18 @@
     "infoUrl": null
   },
   {
+    "id": "7mlu015klkulgrp94kebn1addo@google.com-2026-10-15T18:00:00+02:00",
+    "title": "Vernissage expositions archive des lieux",
+    "start": "2026-10-15T18:00:00+02:00",
+    "end": "2026-10-15T21:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
     "title": "Journée politique de la FéRue",
     "start": "2026-10-16",
@@ -276,10 +288,10 @@
     "infoUrl": null
   },
   {
-    "id": "0a6uet8pogfo21qmr82r98mesr@google.com-2026-10-17T13:00:00+02:00",
+    "id": "0a6uet8pogfo21qmr82r98mesr@google.com-2026-10-17T14:00:00+02:00",
     "title": "Table-ronde Actes If 20 ans Curry Vavart",
-    "start": "2026-10-17T13:00:00+02:00",
-    "end": "2026-10-17T14:00:00+02:00",
+    "start": "2026-10-17T14:00:00+02:00",
+    "end": "2026-10-17T15:30:00+02:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
