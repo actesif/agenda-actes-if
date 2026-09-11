@@ -132,6 +132,18 @@
     "infoUrl": null
   },
   {
+    "id": "569n70t31qg8h5bs82nijkiqgl@google.com-2026-09-26T15:00:00+02:00",
+    "title": "Villa Belleville - Lancement du livre 23 rue Ramponeau à la libraire Sans Titre",
+    "start": "2026-09-26T15:00:00+02:00",
+    "end": "2026-09-26T19:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "SAMEDI 26 SEPTEMBRE 15h-19h LIBRAIRIE SANS TITRE Les 10 ans de la gestion de Villa Belleville par l’association Curry Vavart se poursuivent ce mois-ci avec le lancement du livre 23, rue Ramponeau Après plus d’une décennie passée à faire vivre ce lieu de création, de production et de résidence d’artistes, il semblait nécessaire de marquer une pause, de dresser un état des lieux, de revenir sur ce qui s’y était construit, transformé, inventé. À cela la dimension historique s’est imposée. Avant d’être ce que nous connaissons aujourd’hui, qu’avait été ce lieu ? Qui l’avait occupé, traversé, utilisé ? Quels usages s’y étaient succédé ? Quelles histoires, visibles ou discrètes, avaient façonné ses murs ? Avec les contributions de : Amélie-Lucas Gary, Alexandra Goullier Lhomme, Krica de Belleville, Élodie Lombarde, Adèle Onnillon, Vincent Prieur, Sammy Stein, Nayel Zeaiter et l’équipe de la Villa Belleville. Format 17 × 24 cm | 152 pages | Édité par LeMégot | ISBN 978-2-492826-36-8 Publié avec le soutien de la Fondation Antoine de Galbert Merci aux fonderies typographiques Electro-Bibliothèque et Esperluette",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
     "id": "302de5b3tiskua0tla9att7poh@google.com-2026-09-29T19:00:00+02:00",
     "title": "Présentation de saison La Nef",
     "start": "2026-09-29T19:00:00+02:00",
@@ -348,18 +360,6 @@
     "infoUrl": null
   },
   {
-    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
-    "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
-    "registrationUrl": null,
-    "infoUrl": null
-  },
-  {
     "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
     "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
     "start": "2026-11-23",
@@ -368,6 +368,18 @@
     "location": "",
     "calendarKey": "subventions",
     "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
+    "title": "AAP - fondation crédit coopératif prix de l'inspiration en ess",
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "Ouvert à toutes les structures de l'ESS au sens de la loi du 31 juillet 2014, le concours récompense des projets de territoire œuvrant pour l’intérêt général et dans des secteurs aussi variés que la culture, l'emploi, l'éducation, l'écologie, la santé, la citoyenneté, l'inclusion, ou la promotion de l’ESS.https://fondation.credit-cooperatif.coop/les-prix-de-l-inspiration-en-ess",
     "registrationUrl": null,
     "infoUrl": null
   },
@@ -408,10 +420,10 @@
     "infoUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -420,10 +432,10 @@
     "infoUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
