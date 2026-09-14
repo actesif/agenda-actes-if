@@ -144,6 +144,18 @@
     "infoUrl": null
   },
   {
+    "id": "30jghp7vt7eb6h26kaavunapfs@google.com-2026-09-28T18:30:00+02:00",
+    "title": "10 ans de ARTCENA",
+    "start": "2026-09-28T18:30:00+02:00",
+    "end": "2026-09-28T20:30:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Lundi 28 septembre 2026 à 18h30 ARTCENA 68 rue de la Folie-Méricourt, 75011 Paris L'équipe d'ARTCENA a le plaisir de vous inviter dans ses murs pour partager un moment convivial. Dix ans ans d'accompagnement de la création, ce sont des rencontres, des complicités et des liens tissés avec celles et ceux qui font vivre les arts du cirque, de la rue et du théâtre. Depuis 2016, ARTCENA œuvre aux côtés des artistes, des auteurs, des autrices, et des professionnels, en favorisant le partage des connaissances, la circulation des œuvres et le dialogue entre toutes celles et tous ceux qui font vivre le spectacle vivant. Nous serons heureux de célébrer avec vous cette aventure collective et de continuer à écrire la suite ensemble. Confirmez votre présence à invitation@artcena.fr",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
     "id": "302de5b3tiskua0tla9att7poh@google.com-2026-09-29T19:00:00+02:00",
     "title": "Présentation de saison La Nef",
     "start": "2026-09-29T19:00:00+02:00",
@@ -248,7 +260,7 @@
     "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
     "calendarKey": "vie-asso",
     "description": "Bouclage de la programmation du prochain Sur Un Plateau : finalisation de la sélection des projets éligibles à l’aide à la création DRAC IDF.",
-    "registrationUrl": "https://beta.framadate.org/polls/54ce4d1b98b4a9d54833/e51702ca9ad1c6048e78/admin",
+    "registrationUrl": "https://beta.framadate.org/polls/9add73387d48d2b08c1d",
     "infoUrl": null
   },
   {
@@ -420,10 +432,10 @@
     "infoUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -432,10 +444,10 @@
     "infoUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -456,11 +468,35 @@
     "infoUrl": null
   },
   {
+    "id": "1nuujqdcs5h99eotj52ds8qi5r@google.com-2027-01-07T10:00:00+01:00",
+    "title": "Réunion CA Actes If",
+    "start": "2027-01-07T10:00:00+01:00",
+    "end": "2027-01-07T13:00:00+01:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
     "id": "0lu09f0dr0oardbhter6hj9r34@google.com-2027-01-12",
     "title": "Option Sur Un PLateau",
     "start": "2027-01-12",
     "end": "2027-01-13",
     "allDay": true,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "5cr9blu2a9lod85mv486hr5845@google.com-2027-02-04T10:00:00+01:00",
+    "title": "Réunion CA Actes If",
+    "start": "2027-02-04T10:00:00+01:00",
+    "end": "2027-02-04T13:00:00+01:00",
+    "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
     "description": "",
