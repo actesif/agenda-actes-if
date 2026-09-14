@@ -502,5 +502,65 @@
     "description": "",
     "registrationUrl": null,
     "infoUrl": null
+  },
+  {
+    "id": "2m51vt0k3d7jc9qc0s9kb4o80l@google.com-2027-03-04T10:00:00+01:00",
+    "title": "Réunion CA Actes if",
+    "start": "2027-03-04T10:00:00+01:00",
+    "end": "2027-03-04T13:00:00+01:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "2s1c71okn8suamvfpvlcv9b04q@google.com-2027-04-01T10:00:00+02:00",
+    "title": "réunion CA Actes If",
+    "start": "2027-04-01T10:00:00+02:00",
+    "end": "2027-04-01T13:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "01cv9mivv06qgkut3r043adoa9@google.com-2027-04-29T10:00:00+02:00",
+    "title": "Réunion CA Actes If",
+    "start": "2027-04-29T10:00:00+02:00",
+    "end": "2027-04-29T13:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "0t0nnqq6ro90bhkded9ltnl2pp@google.com-2027-06-03T10:00:00+02:00",
+    "title": "Réunion CA Actes If",
+    "start": "2027-06-03T10:00:00+02:00",
+    "end": "2027-06-03T13:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
+  },
+  {
+    "id": "5gfc2kuofr0jdbtat1r5lk1afp@google.com-2027-07-01T10:00:00+02:00",
+    "title": "Réunion CA Actes If option",
+    "start": "2027-07-01T10:00:00+02:00",
+    "end": "2027-07-01T13:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "vie-asso",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null
   }
 ]
