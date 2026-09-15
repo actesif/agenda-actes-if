@@ -102,6 +102,20 @@ def extract_location_line(text):
     return cleaned, value
 
 
+def extract_structure_line(text):
+    """Cherche une ligne du type 'Structure : ...' dans la description
+    (le lieu/collectif membre à l'origine de l'événement) et la retire du
+    texte affiché — même principe que Lieu, mais pour l'organisme porteur."""
+    if not text:
+        return text, None
+    match = re.search(r"structure\s*:\s*(.{1,80}?)(?=\n|$|\s*(inscription|infos?|lieu)\s*:)", text, re.IGNORECASE)
+    if not match:
+        return text, None
+    value = match.group(1).strip().rstrip(".,;")
+    cleaned = (text[:match.start()] + text[match.end():]).strip()
+    return cleaned, value
+
+
 def clean_desc(text, limit=5000):
     """Le texte complet est envoyé à la page (qui gère elle-même l'affichage
     condensé et le 'Voir plus'). Cette limite très large n'est qu'un garde-fou
@@ -279,7 +293,8 @@ def main():
             raw_description = strip_tags(ev.get("DESCRIPTION", ""))
             desc1, registration_url = extract_registration_url(raw_description)
             desc1b, info_url = extract_info_url(desc1)
-            desc2, lieu_from_desc = extract_location_line(desc1b)
+            desc1c, structure = extract_structure_line(desc1b)
+            desc2, lieu_from_desc = extract_location_line(desc1c)
             if not location and lieu_from_desc:
                 location = lieu_from_desc
             description = clean_desc(collapse_whitespace(desc2))
@@ -295,6 +310,7 @@ def main():
                 "description": description,
                 "registrationUrl": registration_url,
                 "infoUrl": info_url,
+                "structure": structure,
             })
 
     all_events.sort(key=lambda e: e["start"])
