@@ -37,13 +37,13 @@
   },
   {
     "id": "150vgj3mp9enu57ai02j2pasgs@google.com-2026-09-19",
-    "title": "Allumage de saison Collectif 12",
+    "title": "Allumage de saison",
     "start": "2026-09-19",
     "end": "2026-09-20",
     "allDay": true,
     "location": "",
     "calendarKey": "membres",
-    "description": "",
+    "description": "Structure : Collectif 12",
     "registrationUrl": null,
     "infoUrl": null
   },
@@ -55,9 +55,9 @@
     "allDay": false,
     "location": "",
     "calendarKey": "membres",
-    "description": "19h45 – 20h45 : Pourquoi avons-nous encore besoin de lieux comme Mains d'Œuvres ? Entrée libre dans la Cour des Myrtilles, dans la limite des places disponibles. Rencontre entre Fazette Bordage, fondatrice de Mains d'Œuvres, et Mathieu Maisonneuve, directeur actuel, autour de l'histoire, des transformations et de l'avenir des lieux culturels indépendants. À cette occasion, le Collectif Tout e(s)t n'importe quoi présentera l'auto-édition réalisée à partir de témoignages et des documents recueillis pour les 25 ans de Mains d'Œuvres. Plus d'informations : https://www.mainsdoeuvres.org/agenda/les-memoires-a-loeuvre",
+    "description": "19h45 – 20h45 : Pourquoi avons-nous encore besoin de lieux comme Mains d'Œuvres ? Entrée libre dans la Cour des Myrtilles, dans la limite des places disponibles. Rencontre entre Fazette Bordage, fondatrice de Mains d'Œuvres, et Mathieu Maisonneuve, directeur actuel, autour de l'histoire, des transformations et de l'avenir des lieux culturels indépendants. À cette occasion, le Collectif Tout e(s)t n'importe quoi présentera l'auto-édition réalisée à partir de témoignages et des documents recueillis pour les 25 ans de Mains d'Œuvres.",
     "registrationUrl": null,
-    "infoUrl": null
+    "infoUrl": "https://www.mainsdoeuvres.org/agenda/les-memoires-a-loeuvre"
   },
   {
     "id": "6uokqq9pqnc11prkf7kq9i85qo@google.com-2026-09-22",
@@ -432,10 +432,10 @@
     "infoUrl": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -444,10 +444,10 @@
     "infoUrl": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
