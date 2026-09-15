@@ -304,6 +304,11 @@
   .event h3{ font-weight:700; font-size: 1.28rem; line-height:1.28; margin: 0 0 var(--sp-2); color:var(--navy); transition: color 0.15s ease; }
   .event:hover h3{ color: var(--coral); }
 
+  .event-structure{
+    font-family: var(--hand); font-weight:400; font-size: 1.15rem;
+    color: var(--coral-deep); display:inline-block;
+    transform: rotate(-1.4deg); margin: -4px 0 var(--sp-3);
+  }
   .event-place{ font-size: 0.9rem; color: var(--navy-muted); margin: 0 0 var(--sp-2); display:flex; align-items:center; gap:6px; }
   .event-place svg{ width:14px; height:14px; flex:none; }
 
@@ -959,6 +964,7 @@
             ${timeRange ? `<span class="event-time">${multiDay ? iconCal() : iconClock()} ${timeRange}</span>` : ''}
           </div>
           <h3>${ev.title}</h3>
+          ${ev.structure ? `<p class="event-structure">par ${ev.structure}</p>` : ''}
           ${ev.location ? `<p class="event-place">${iconPin()} ${ev.location}</p>` : ''}
           ${ev.description ? `<p class="event-desc${ev.description.length > 140 ? ' clamped' : ''}">${ev.description}</p>` : ''}
           <div class="event-actions">
