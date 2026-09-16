@@ -7,7 +7,7 @@
 <meta name="description" content="Les rendez-vous du réseau, temps forts des partenaires et échéances de subventions, à retrouver et ajouter facilement à votre agenda.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Oswald:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Oswald:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
   /* ---------------------------------------------------------
@@ -50,7 +50,7 @@
     --display: 'Archivo Black', sans-serif;
     --title: 'Oswald', sans-serif;
     --mono: 'JetBrains Mono', ui-monospace, monospace;
-    --hand: 'Permanent Marker', cursive;
+    --hand: 'Kalam', cursive;
 
     --wrap: 780px;
   }
@@ -115,7 +115,7 @@
     box-shadow: 0 1px 3px rgba(21,26,77,.15);
   }
   .subscribe-band > h2{
-    font-family: var(--hand); font-weight:400; font-size: 1.5rem; color: var(--coral);
+    font-family: var(--hand); font-weight:700; font-size: 1.6rem; color: var(--coral);
     display:inline-block; transform: rotate(-1.6deg); margin: 0 0 var(--sp-2);
   }
   .subscribe-band > p.lead{ margin: 0 0 var(--sp-4); color: var(--navy-70); font-size: 0.89rem; max-width:58ch; }
@@ -131,7 +131,7 @@
     justify-content:space-between;
   }
   .share-band h2{
-    font-family: var(--hand); font-weight:400; font-size: 1.35rem; color: var(--coral);
+    font-family: var(--hand); font-weight:700; font-size: 1.45rem; color: var(--coral);
     display:block; transform: rotate(-1.2deg); margin: 0 0 var(--sp-2);
     flex-basis:100%;
   }
@@ -260,6 +260,7 @@
   }
   .event:first-of-type{ padding-top:0; }
   .event:hover{ background: rgba(17,11,169,0.035); }
+  .event.cat-membres:hover{ background: rgba(255,0,0,0.055); }
   .event.in-view{ opacity:1; transform:none; }
   .event.tentative.in-view{ opacity:0.5; }
   .event.tentative:hover{ opacity:0.85; }
@@ -305,8 +306,8 @@
   .event:hover h3{ color: var(--coral); }
 
   .event-structure{
-    font-family: var(--hand); font-weight:400; font-size: 1.15rem;
-    color: var(--coral-deep); display:inline-block;
+    font-family: var(--hand); font-weight:700; font-size: 1.15rem;
+    color: var(--coral); display:inline-block;
     transform: rotate(-1.4deg); margin: -4px 0 var(--sp-3);
   }
   .event-place{ font-size: 0.9rem; color: var(--navy-muted); margin: 0 0 var(--sp-2); display:flex; align-items:center; gap:6px; }
@@ -460,12 +461,13 @@
   const SNAPSHOT_EVENTS = [
       {
             "id": "demo-membres-1",
-            "title": "Ouverture d'atelier — Cie Les Trois Lucarnes",
+            "title": "Allumage de saison",
             "start": "2026-09-12T18:00:00+02:00",
             "end": "2026-09-12T20:00:00+02:00",
             "allDay": false,
             "location": "Friche La Belle Étoile, Saint-Denis (93)",
             "calendarKey": "membres",
+            "structure": "Collectif 12",
             "description": "Ouverture publique de résidence, suivie d'un temps d'échange avec l'équipe artistique.",
             "registrationUrl": null
       },
@@ -733,6 +735,20 @@
       }
 ];
 
+  // L'événement de démonstration ne doit jamais devenir obsolète : sa date
+  // est recalculée à chaque chargement de la page plutôt que figée en dur.
+  (function keepDemoEventFresh(){
+    const demo = SNAPSHOT_EVENTS.find(e => e.id === 'demo-membres-1');
+    if (!demo) return;
+    const start = new Date();
+    start.setDate(start.getDate() + 5);
+    start.setHours(18, 0, 0, 0);
+    const end = new Date(start);
+    end.setHours(20, 0, 0, 0);
+    demo.start = start.toISOString();
+    demo.end = end.toISOString();
+  })();
+
   /* =========================================================
      UTILITAIRES DE DATE
      ========================================================= */
@@ -943,7 +959,7 @@
 
       const isTentative = /\boption\b/i.test(ev.title);
       const article = document.createElement('article');
-      article.className = `event${isTentative ? ' tentative' : ''}`;
+      article.className = `event cat-${cal.key}${isTentative ? ' tentative' : ''}`;
 
       const registerBtn = ev.registrationUrl
         ? `<a class="btn-register" href="${ev.registrationUrl}" target="_blank" rel="noopener">S'inscrire ${iconArrow()}</a>`
