@@ -52,19 +52,6 @@
     "structure": "Collectif 12"
   },
   {
-    "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-09-19T17:00:00+02:00",
-    "title": "Festival (Re)Mix - #1 : Prologue, Ichiko Aoba",
-    "start": "2026-09-19T17:00:00+02:00",
-    "end": "2026-09-20T00:00:00+02:00",
-    "allDay": false,
-    "location": "Péniche La Pop, Bassin de la villette, 61 Quai de la Seine face au, 75019 Paris, France",
-    "calendarKey": "membres",
-    "description": "Festival (Re)Mix ~ 8 performances transdisciplinaires sur le thème des fantômes Du 19 septembre au 10 octobre, La Pop propose à 13 artistes pluridisciplinaires 4 musiques hantées comme sources d’inspiration. Chaque samedi pendant un mois, ils et elles vont s’en emparer pour nous proposer un geste fugace, une brèche temporelle sous la forme d’une performance en dialogue avec les êtres vivants qui nous ont quitté.",
-    "registrationUrl": null,
-    "infoUrl": "https://lapop.fr/spectacles/festival-remix-2026/",
-    "structure": "La Pop"
-  },
-  {
     "id": "4lqgokbrd0ek66dnpdjsn6a3rd@google.com-2026-09-19T17:00:00+02:00",
     "title": "AG des acteur.ices culturel.les indépendant.es",
     "start": "2026-09-19T17:00:00+02:00",
@@ -76,6 +63,19 @@
     "registrationUrl": null,
     "infoUrl": "https://www.lagenerale.fr/fr/projet/ag-des-acteurices-culturelles-independantes",
     "structure": "La Générale"
+  },
+  {
+    "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-09-19T17:00:00+02:00",
+    "title": "Festival (Re)Mix - #1 : Prologue, Ichiko Aoba",
+    "start": "2026-09-19T17:00:00+02:00",
+    "end": "2026-09-20T00:00:00+02:00",
+    "allDay": false,
+    "location": "Péniche La Pop, Bassin de la villette, 61 Quai de la Seine face au, 75019 Paris, France",
+    "calendarKey": "membres",
+    "description": "Festival (Re)Mix ~ 8 performances transdisciplinaires sur le thème des fantômes Du 19 septembre au 10 octobre, La Pop propose à 13 artistes pluridisciplinaires 4 musiques hantées comme sources d’inspiration. Chaque samedi pendant un mois, ils et elles vont s’en emparer pour nous proposer un geste fugace, une brèche temporelle sous la forme d’une performance en dialogue avec les êtres vivants qui nous ont quitté.",
+    "registrationUrl": null,
+    "infoUrl": "https://lapop.fr/spectacles/festival-remix-2026/",
+    "structure": "La Pop"
   },
   {
     "id": "141dtp1p3452btbguhsedpair6@google.com-2026-09-19T19:45:00+02:00",
