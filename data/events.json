@@ -328,7 +328,7 @@
     "id": "01ir5can86gtf48r3b61br1f5a@google.com-2026-10-09T11:00:00+02:00",
     "title": "ANTL - webinaire AAP européen Tiers-Lieux",
     "start": "2026-10-09T11:00:00+02:00",
-    "end": "2026-10-10T00:30:00+02:00",
+    "end": "2026-10-10T12:30:00+02:00",
     "allDay": false,
     "location": "",
     "calendarKey": "partenaires",
@@ -520,19 +520,6 @@
     "structure": null
   },
   {
-    "id": "3s3t3r5l92okfk5mnt4j2sbnp0@google.com-2026-11-23",
-    "title": "Subv Réseau - prépa demande acccompagnement artistique mutualisé région idf",
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
-  },
-  {
     "id": "2111e8nit7mmqgllp8ca0mval8@google.com-2026-11-24",
     "title": "rencontres pro Le Fil maison des metallos",
     "start": "2026-11-24",
@@ -566,9 +553,9 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": "Plus d'informations Lien : https://www.iledefrance.fr/franciliens-vivre-en-ile-de-france/culture/forte-fonds-regional-pour-les-talents-emergents",
+    "description": "",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://www.iledefrance.fr/franciliens-vivre-en-ile-de-france/culture/forte-fonds-regional-pour-les-talents-emergents",
     "structure": null
   },
   {
