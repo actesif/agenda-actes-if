@@ -13,19 +13,6 @@
     "structure": "Animakt"
   },
   {
-    "id": "2344i5tn7aijhtd5qdp19bijvf@google.com-2026-09-18T09:30:00+02:00",
-    "title": "Assemblée Permanente des Associations Citoyennes",
-    "start": "2026-09-18T09:30:00+02:00",
-    "end": "2026-09-18T18:30:00+02:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Les APAC (Assemblées Permanentes des Associations Citoyennes), organisées par le Collectif des Associations Citoyennes (CAC) sont des réunions publiques, ouvertes à tous.tes qui ont lieu tous les trimestres. La prochaine Assemblées Permanentes des Associations Citoyennes (dite « APAC ») aura lieu le vendredi 18 septembre 2026 de 9h45 à 16h à Montreuil (93) & en visio. Première base de programme9h30-9h50 Accueil thé/café + Présentation de la journée 9h50-10h30 Temps d’interconnaissance & Partage des agendas et actualités autour de deux thématiques : la lutte contre le RN et les mobilisations en vue des présidentielles 10h30-12h Temps de travail en plénières et ensuite sous-groupe sur la construction du programme des associations citoyennes pour les présidentielles. A travers les revendications des différents réseaux et associations, extraire des points communs et des revendications convergentes. 12h-13h Quelle proposition de loi pour renforcer la mission d’interpellation des associations dans une visée d’éducation populaire ? Présentation et débat autour de la proposition de loi portée par les professionnels de l’éducation populaire de la CGT. (temps possible en visio). 13h-14h30 Déjeuner en mode auberge espagnole avec ce que chacun.e aura amené 14h30-16h Propositions d’ateliers :Quelles émissions pour un cycle sur l’apport des associations citoyennes à l’action publique dans la perspective des présidentielles ? Comment construire un socle de sérénité pour les associations citoyennes – la piste d’une sécurité sociale des associations ? Atelier permanent d’entraide mutuelle 16h Mot de clôture Pause 16h15-18h30 Assemblée Générale Extraordinaire de modification des statuts",
-    "registrationUrl": "https://www.associations-citoyennes.net/apac-assemblee-permanente-du-cac-18-sept/",
-    "infoUrl": null,
-    "structure": null
-  },
-  {
     "id": "150vgj3mp9enu57ai02j2pasgs@google.com-2026-09-19",
     "title": "Allumage de saison",
     "start": "2026-09-19",
@@ -572,10 +559,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -585,10 +572,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
