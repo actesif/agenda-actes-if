@@ -13,58 +13,6 @@
     "structure": "Animakt"
   },
   {
-    "id": "150vgj3mp9enu57ai02j2pasgs@google.com-2026-09-19",
-    "title": "Allumage de saison",
-    "start": "2026-09-19",
-    "end": "2026-09-20",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "membres",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": "Collectif 12"
-  },
-  {
-    "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-09-19T17:00:00+02:00",
-    "title": "Festival (Re)Mix - #1 : Prologue, Ichiko Aoba",
-    "start": "2026-09-19T17:00:00+02:00",
-    "end": "2026-09-20T00:00:00+02:00",
-    "allDay": false,
-    "location": "Péniche La Pop, Bassin de la villette, 61 Quai de la Seine face au, 75019 Paris, France",
-    "calendarKey": "membres",
-    "description": "Festival (Re)Mix ~ 8 performances transdisciplinaires sur le thème des fantômes Du 19 septembre au 10 octobre, La Pop propose à 13 artistes pluridisciplinaires 4 musiques hantées comme sources d’inspiration. Chaque samedi pendant un mois, ils et elles vont s’en emparer pour nous proposer un geste fugace, une brèche temporelle sous la forme d’une performance en dialogue avec les êtres vivants qui nous ont quitté.",
-    "registrationUrl": null,
-    "infoUrl": "https://lapop.fr/spectacles/festival-remix-2026/",
-    "structure": "La Pop"
-  },
-  {
-    "id": "4lqgokbrd0ek66dnpdjsn6a3rd@google.com-2026-09-19T17:00:00+02:00",
-    "title": "AG des acteur.ices culturel.les indépendant.es",
-    "start": "2026-09-19T17:00:00+02:00",
-    "end": "2026-09-19T20:00:00+02:00",
-    "allDay": false,
-    "location": "La Générale Nord-Est, 39 Rue Gassendi, 75014 Paris, France",
-    "calendarKey": "membres",
-    "description": "Samedi 19 septembre, à partir de 17h, le collectif de La Générale vous invite à un temps d'échange et de travail autour de l'actualité qui nous rattrape et nous concerne toustes : baisse et coupe des subventions, mépris des collectivités, crise de l'immobilier et disparition des espaces de soutiens/luttes, censures, politiques culturelles en faveur de projets lucratifs et \"légitimes\" qui favorisent avant tout l'entre soi... Nous invitons donc pour faire front, les acteur.ices culturel.les indépendant.es, celleux qui animent, le public, malgré les trop nombreuses difficultés quotidiennes, des espaces autonomes, militants et alternatifs. Il est urgent de se fédérer, de dénoncer et d'agir.",
-    "registrationUrl": null,
-    "infoUrl": "https://www.lagenerale.fr/fr/projet/ag-des-acteurices-culturelles-independantes",
-    "structure": "La Générale"
-  },
-  {
-    "id": "141dtp1p3452btbguhsedpair6@google.com-2026-09-19T19:45:00+02:00",
-    "title": "Rencontre \"Pourquoi avons-nous encore besoin de lieux comme Mains d'Œuvres ?\" dans le cadre des journées européenne du patrimoine",
-    "start": "2026-09-19T19:45:00+02:00",
-    "end": "2026-09-19T20:45:00+02:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "membres",
-    "description": "19h45 – 20h45 : Pourquoi avons-nous encore besoin de lieux comme Mains d'Œuvres ? Entrée libre dans la Cour des Myrtilles, dans la limite des places disponibles. Rencontre entre Fazette Bordage, fondatrice de Mains d'Œuvres, et Mathieu Maisonneuve, directeur actuel, autour de l'histoire, des transformations et de l'avenir des lieux culturels indépendants. À cette occasion, le Collectif Tout e(s)t n'importe quoi présentera l'auto-édition réalisée à partir de témoignages et des documents recueillis pour les 25 ans de Mains d'Œuvres.",
-    "registrationUrl": null,
-    "infoUrl": "https://www.mainsdoeuvres.org/agenda/les-memoires-a-loeuvre",
-    "structure": "Mains d’œuvres"
-  },
-  {
     "id": "6uokqq9pqnc11prkf7kq9i85qo@google.com-2026-09-22",
     "title": "Festival Onde  de coop - Faisons collectif face aux violences capitalistes",
     "start": "2026-09-22",
