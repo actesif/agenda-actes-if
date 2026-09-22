@@ -351,6 +351,19 @@
     "structure": null
   },
   {
+    "id": "615emidv0t32v73rmuufaematu@google.com-2026-11-02",
+    "title": "Ouverture Festival Signes d'Automne 2026",
+    "start": "2026-11-02",
+    "end": "2026-11-03",
+    "allDay": true,
+    "location": "210 Rue de Belleville, 75020 Paris, France",
+    "calendarKey": "membres",
+    "description": "Notre festival de danse Signes d'Automne fera son grand retour du 2 novembre au 2 décembre 2026. 17 équipes artistiques partageront le plateau tout au long du mois pour partager différentes étapes de travail : parfois des projets en pleine création, d'autres déjà arrivés à maturité, lorsque certain·es artistes signeront leur dernière production. Informations complémentaires: Professionnel.les, écrivez-nous pour demander des invitations, à communication2@leregarducygne.com",
+    "registrationUrl": "https://leregardducygne.mapado.com",
+    "infoUrl": null,
+    "structure": "Le Regard du          Cygne"
+  },
+  {
     "id": "0a3kdpi1nms35s2cn15i1pa3rt@google.com-2026-11-02T10:00:00+01:00",
     "title": "Option GT VHSS",
     "start": "2026-11-02T10:00:00+01:00",
@@ -360,19 +373,6 @@
     "calendarKey": "vie-asso",
     "description": "Dans la continuité du travail engagé par Actes If sur la prévention et la lutte contre les violences et harcèlements sexistes et sexuels (VHSS), ce groupe de travail poursuit la construction d’outils communs pour accompagner les lieux du réseau. Les échanges porteront notamment sur la rédaction d’une charte VHSS commune, la mutualisation de ressources et la mise en place d’une cellule de référent·es VHSS entre membres.",
     "registrationUrl": "https://beta.framadate.org/polls/838d8b65a4ba5fa797b4",
-    "infoUrl": null,
-    "structure": null
-  },
-  {
-    "id": "615emidv0t32v73rmuufaematu@google.com-2026-11-02T16:00:00+01:00",
-    "title": "Festival Signes d'Automne 2026 - Le Regard du Cygne",
-    "start": "2026-11-02T16:00:00+01:00",
-    "end": "2026-12-02T00:00:00+01:00",
-    "allDay": false,
-    "location": "210 Rue de Belleville, 75020 Paris, France",
-    "calendarKey": "membres",
-    "description": "Notre festival de danse Signes d'Automne fera son grand retour du 2 novembre au 2 décembre 2026. 17 équipes artistiques partageront le plateau tout au long du mois pour partager différentes étapes de travail : parfois des projets en pleine création, d'autres déjà arrivés à maturité, lorsque certain·es artistes signeront leur dernière production. Informations complémentaires: Professionnel.les, écrivez-nous pour demander des invitations, à communication2@leregarducygne.com",
-    "registrationUrl": "https://leregardducygne.mapado.com",
     "infoUrl": null,
     "structure": null
   },
