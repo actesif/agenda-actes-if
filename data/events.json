@@ -59,10 +59,10 @@
     "allDay": false,
     "location": "Villa Belleville, 23 Rue Ramponeau, 75020 Paris, France",
     "calendarKey": "membres",
-    "description": "15h-19h Les 10 ans de la gestion de Villa Belleville par l’association Curry Vavart se poursuivent ce mois-ci avec le lancement du livre 23, rue Ramponeau Après plus d’une décennie passée à faire vivre ce lieu de création, de production et de résidence d’artistes, il semblait nécessaire de marquer une pause, de dresser un état des lieux, de revenir sur ce qui s’y était construit, transformé, inventé. À cela la dimension historique s’est imposée. Avant d’être ce que nous connaissons aujourd’hui, qu’avait été ce lieu ? Qui l’avait occupé, traversé, utilisé ? Quels usages s’y étaient succédé ? Quelles histoires, visibles ou discrètes, avaient façonné ses murs ? Avec les contributions de : Amélie-Lucas Gary, Alexandra Goullier Lhomme, Krica de Belleville, Élodie Lombarde, Adèle Onnillon, Vincent Prieur, Sammy Stein, Nayel Zeaiter et l’équipe de la Villa Belleville.",
+    "description": "SAMEDI 26 SEPTEMBRE 15h-19h Les 10 ans de la gestion de Villa Belleville par l’association Curry Vavart se poursuivent ce mois-ci avec le lancement du livre 23, rue Ramponeau Après plus d’une décennie passée à faire vivre ce lieu de création, de production et de résidence d’artistes, il semblait nécessaire de marquer une pause, de dresser un état des lieux, de revenir sur ce qui s’y était construit, transformé, inventé. À cela la dimension historique s’est imposée. Avant d’être ce que nous connaissons aujourd’hui, qu’avait été ce lieu ? Qui l’avait occupé, traversé, utilisé ? Quels usages s’y étaient succédé ? Quelles histoires, visibles ou discrètes, avaient façonné ses murs ? Avec les contributions de : Amélie-Lucas Gary, Alexandra Goullier Lhomme, Krica de Belleville, Élodie Lombarde, Adèle Onnillon, Vincent Prieur, Sammy Stein, Nayel Zeaiter et l’équipe de la Villa Belleville.",
     "registrationUrl": null,
     "infoUrl": "https://us.list-manage.com/mdxhaON4Xzr?e=92a22ebacb&c2id=e04347e3f44e6260a12b2371ced67a7f&m=wktP5qRNODUmkgTaVUPecxQbCgNMFwMx1yYf5TeHX_hSJM8SepSG7yJr6GoQ",
-    "structure": "Villa BellevilleSAMEDI 26 SEPTEMBRE"
+    "structure": "Villa Belleville"
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-09-26T17:00:00+02:00",
@@ -98,9 +98,9 @@
     "allDay": false,
     "location": "",
     "calendarKey": "subventions",
-    "description": "Webinaire d'informationUn webinaire d’information sur le dispositif aura lieu le lundi 28 septembre à 10h. Lien : https://visio.numerique.gouv.fr/uvn-tslt-odt Pour participer par téléphone : +33 9 79 94 06 78 - code : 172 998 9153# Plus d'informations - Lien : https://www.culture.gouv.fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/culture-et-lien-social",
+    "description": "Webinaire d'informationUn webinaire d’information sur le dispositif aura lieu le lundi 28 septembre à 10h. Pour participer par téléphone : +33 9 79 94 06 78 - code : 172 998 9153# Visio : https://visio.numerique.gouv.fr/uvn-tslt-odt",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://www.culture.gouv.fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/culture-et-lien-social",
     "structure": null
   },
   {
@@ -124,10 +124,10 @@
     "allDay": false,
     "location": "",
     "calendarKey": "membres",
-    "description": "MARDI 29 SEPTEMBRE Nous avons hâte de partager avec vous les découvertes et coups de cœur issus de notre dernier comité de sélection. Des formes, des narrations, des esthétiques qui témoignent de la grande vitalité de la marionnette contemporaine ! Après un mot d'accueil de notre nouvelle directrice, Alexandra Vuillet, et de toute l'équipe, vous déambulerez dans une Nef scénographiée pour l’occasion par les plasticiennes Marine Dubois et Stéphanie Saint Cyr Lariflette. La soirée sera placée sous le signe de la rencontre des disciplines avec une carte blanche proposée à deux apprenti·es artistes de l'Académie Fratellini, Zohar Baron et Sagi Sharon.",
+    "description": "RDV à la rentrée pour notre présentation de saison MARDI 29 SEPTEMBRE Nous avons hâte de partager avec vous les découvertes et coups de cœur issus de notre dernier comité de sélection. Des formes, des narrations, des esthétiques qui témoignent de la grande vitalité de la marionnette contemporaine ! Après un mot d'accueil de notre nouvelle directrice, Alexandra Vuillet, et de toute l'équipe, vous déambulerez dans une Nef scénographiée pour l’occasion par les plasticiennes Marine Dubois et Stéphanie Saint Cyr Lariflette. La soirée sera placée sous le signe de la rencontre des disciplines avec une carte blanche proposée à deux apprenti·es artistes de l'Académie Fratellini, Zohar Baron et Sagi Sharon.",
     "registrationUrl": null,
     "infoUrl": "https://la-nef.org/fr/programmation/saison-26-27/soiree-de-presentation-de-saison",
-    "structure": "La NefRDV à la rentrée pour notre présentation de saison"
+    "structure": "La Nef"
   },
   {
     "id": "45vv8bh7jpfl8mjp30hrglr3sl@google.com-2026-09-30",
@@ -261,29 +261,16 @@
   },
   {
     "id": "36sammsneu3i7kq92pqatk5gh2@google.com-2026-10-14",
-    "title": "20 ans Curry Vavart // 15 ans Shakirail",
+    "title": "20 ans d’ouvertures utiles – Expériences de lieux partagés",
     "start": "2026-10-14",
     "end": "2026-10-19",
     "allDay": true,
-    "location": "",
+    "location": "Le Shakirail, 72 Rue Riquet, 75018 Paris, France",
     "calendarKey": "membres",
-    "description": "",
+    "description": "En 2026, à l'occasion de son 20e anniversaire mais aussi des 15 ans du Shakirail, le collectif Curry Vavart organise du 15 au 18 octobre l'événement « 20 ans d'ouvertures utiles ». Pensé comme un hommage aux lieux collectifs en milieu urbain, ce temps fort observe, questionne et célèbre ces espaces partagés qui font la ville. Regroupant plus de 30 lieux complices aux trajectoires uniques, l’installation audiovisuelle nous invite à découvrir comment ces organisations s’auto-documentent, se raconte par l’image et imprègnent la mémoire des personnes qui les fréquentent. En complément de l’installation, les longs-métrages et spectacles programmés font le focus sur certains projets, le faire ensemble et l’agir en collectif. Les tables-rondes organisées avec nos réseaux partenaires interrogent plus particulièrement la place des lieux artistiques et intermédiaires dans la ville, pour visibiliser et encourager les logiques de coopération à l’œuvre. Alors que des lieux ferment et que de nouveaux enjeux fragilisent ces espaces de solidarité, retrouvons-nous pour cette fête d’anniversaire en fanfare et en convivialité !",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
-  },
-  {
-    "id": "7mlu015klkulgrp94kebn1addo@google.com-2026-10-15T18:00:00+02:00",
-    "title": "Vernissage expositions archive des lieux",
-    "start": "2026-10-15T18:00:00+02:00",
-    "end": "2026-10-15T21:00:00+02:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "membres",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
+    "structure": "Le Shakirail - Curry Vavart"
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
@@ -468,10 +455,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -481,10 +468,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
