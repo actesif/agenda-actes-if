@@ -202,12 +202,12 @@ def generate_preview_image(events, out_path):
     f_header = _font("LiberationSans-Regular.ttf", 22)
     f_cat = _font("LiberationSans-Regular.ttf", 13)
     f_date = _font("LiberationSans-Regular.ttf", 15)
-    f_title = _font("LiberationSans-Bold.ttf", 25)
+    f_title = _font("LiberationSans-Bold.ttf", 21)
     f_meta = _font("LiberationSans-Regular.ttf", 14)
     f_cta = _font("LiberationSans-Bold.ttf", 18)
 
     row_gap = 28
-    row_heights = [24 + 8 + 32 + (22 if ev.get("location") else 0) + row_gap for ev in upcoming]
+    row_heights = [24 + 8 + 28 + (22 if ev.get("location") else 0) + row_gap for ev in upcoming]
     top_pad = 34
     header_h = 34 + 20
     bar_h = 58
@@ -227,8 +227,8 @@ def generate_preview_image(events, out_path):
         label = CAT_LABEL.get(ev["calendarKey"], "")
         cat_bbox = d.textbbox((0, 0), label, font=f_cat)
         cat_w = cat_bbox[2] - cat_bbox[0] + 16
-        d.rounded_rectangle([pad_x, y, pad_x + cat_w, y + 22], radius=5, fill=CORAL)
-        d.text((pad_x + 8, y + 4), label, font=f_cat, fill=WHITE)
+        d.rounded_rectangle([pad_x, y, pad_x + cat_w, y + 22], radius=5, outline=CORAL, width=1, fill=WHITE)
+        d.text((pad_x + 8, y + 4), label, font=f_cat, fill=CORAL)
 
         date_txt = f"{dt.day} {MONTHS_FR[dt.month - 1]}"
         if not ev.get("allDay") and "T" in ev["start"]:
@@ -237,7 +237,7 @@ def generate_preview_image(events, out_path):
 
         y += 34
         d.text((pad_x, y), _truncate(ev["title"], 42), font=f_title, fill=NAVY)
-        y += 32
+        y += 28
 
         if ev.get("location"):
             next_x = _draw_pin(d, pad_x, y + 3, CORAL, size=13)
