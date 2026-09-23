@@ -146,10 +146,10 @@ def fetch_calendar(calendar_id):
 # titre d'en-tête dans la vraie police d'affichage de la page
 # (Archivo Black, téléchargée à la volée, avec repli si indisponible).
 # ---------------------------------------------------------------
-LAVANDE = (210, 199, 255)
 NAVY = (17, 11, 169)
 CORAL = (255, 0, 0)
 WHITE = (255, 255, 255)
+BORDER = (228, 228, 232)
 
 FONT_DIR = "/usr/share/fonts/truetype/liberation/"
 MONTHS_FR = ["janv.", "févr.", "mars", "avr.", "mai", "juin",
@@ -160,21 +160,6 @@ CAT_LABEL = {
     "subventions": "SUBVENTIONS",
     "membres": "ÉVÉNEMENTS MEMBRES",
 }
-
-ARCHIVO_URL = "https://raw.githubusercontent.com/google/fonts/main/ofl/archivoblack/ArchivoBlack-Regular.ttf"
-ARCHIVO_LOCAL = "ArchivoBlack-Regular.ttf"
-
-
-def _get_archivo(size):
-    """Police d'affichage réelle de la page (Archivo Black), récupérée à la
-    volée ; bascule sur une police de secours si le téléchargement échoue,
-    pour ne jamais faire échouer la synchronisation à cause d'une police."""
-    try:
-        if not os.path.exists(ARCHIVO_LOCAL):
-            urllib.request.urlretrieve(ARCHIVO_URL, ARCHIVO_LOCAL)
-        return ImageFont.truetype(ARCHIVO_LOCAL, size)
-    except Exception:
-        return ImageFont.truetype(FONT_DIR + "LiberationSans-Bold.ttf", size)
 
 
 def _font(name, size):
@@ -214,9 +199,9 @@ def generate_preview_image(events, out_path):
     W = 640
     pad_x = 36
 
-    f_header = _get_archivo(24)
-    f_cat = _font("LiberationSans-Bold.ttf", 13)
-    f_date = _font("LiberationSans-Bold.ttf", 15)
+    f_header = _font("LiberationSans-Regular.ttf", 22)
+    f_cat = _font("LiberationSans-Regular.ttf", 13)
+    f_date = _font("LiberationSans-Regular.ttf", 15)
     f_title = _font("LiberationSans-Bold.ttf", 25)
     f_meta = _font("LiberationSans-Regular.ttf", 14)
     f_cta = _font("LiberationSans-Bold.ttf", 18)
@@ -228,8 +213,9 @@ def generate_preview_image(events, out_path):
     bar_h = 58
     H = top_pad + header_h + sum(row_heights) + bar_h + 10
 
-    img = Image.new("RGB", (W, H), LAVANDE)
+    img = Image.new("RGB", (W, H), WHITE)
     d = ImageDraw.Draw(img)
+    d.rounded_rectangle([1, 1, W - 2, H - 2], radius=22, outline=BORDER, width=2)
 
     d.text((pad_x, top_pad), "AGENDA PARTAGÉ DU RÉSEAU ACTES IF", font=f_header, fill=CORAL)
 
