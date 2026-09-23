@@ -18,9 +18,9 @@
     "start": "2026-09-24T09:00:00+02:00",
     "end": "2026-09-24T18:00:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Le Jardin des Traverses, : Face à la station de tram Diane Arbus, Bd Ney, 75018 Paris, France",
     "calendarKey": "partenaires",
-    "description": "Face aux urgences écologiques, sociales et démocratiques, la coopération active (entre les associations, les citoyen·nes, le monde de la recherche et les décideur·ses politiques) n’est plus une option : c’est le moteur du changement ! Le Collectif pour une Transition Citoyenne (CTC), le Collectif des Associations Citoyennes (CAC) et le Labo de l’ESS s’associent pour vous inviter à une grande journée de travail, de décryptage et de rencontres: Journée de la Co-construction Citoyenne jeudi 24 septembre 2026, 9h-19h Au Jardin des Traverses – Boulevard Ney 75018 Paris",
+    "description": "9H-19H Face aux urgences écologiques, sociales et démocratiques, la coopération active (entre les associations, les citoyen·nes, le monde de la recherche et les décideur·ses politiques) n’est plus une option : c’est le moteur du changement ! Le Collectif pour une Transition Citoyenne (CTC), le Collectif des Associations Citoyennes (CAC) et le Labo de l’ESS s’associent pour vous inviter à une grande journée de travail, de décryptage et de rencontres: Journée de la Co-construction Citoyenne",
     "registrationUrl": "https://transition-citoyenne.org/evenement-journee-de-la-co-construction-citoyenne/",
     "infoUrl": null,
     "structure": null
@@ -31,11 +31,11 @@
     "start": "2026-09-24T19:00:00+02:00",
     "end": "2026-09-24T23:00:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Nouveau Gare au Théâtre, 13 Rue Pierre Semard, 94400 Vitry-sur-Seine, France",
     "calendarKey": "membres",
     "description": "",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://nouveaugareautheatre.com/menu-principal/presentation-de-saison-26",
     "structure": "Nouveau Gare au Théâtre"
   },
   {
@@ -455,10 +455,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -468,10 +468,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
