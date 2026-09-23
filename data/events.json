@@ -1,31 +1,5 @@
 [
   {
-    "id": "6uokqq9pqnc11prkf7kq9i85qo@google.com-2026-09-22",
-    "title": "Festival Onde  de coop - Faisons collectif face aux violences capitalistes",
-    "start": "2026-09-22",
-    "end": "2026-09-23",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Le livre tant attendu du TRANSISCOPE (portail web des alternatives) aura pour titre \"ALTERNATIVES ET LUTTES - Cartographier pour coopérer\" et sortira le 22 septembre 2026 à l'occasion d’Onde de Coop - réservez la date !",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
-  },
-  {
-    "id": "3jo3c04fqfm53e0unf421aop3d@google.com-2026-09-22T18:26:00+00:00",
-    "title": "Perform-Europe",
-    "start": "2026-09-22T18:26:00+00:00",
-    "end": "2026-09-22T18:28:00+00:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "finance des tournées plus durables au sein d’Europe Créative, met l’accent sur l’inclusion et la diversité, et la lutte contre le changement climatique.",
-    "registrationUrl": null,
-    "infoUrl": "https://www.artcena.fr/fil-vie-pro/perform-europe-2026-2028-lappel-a-projets-est-ouvert",
-    "structure": null
-  },
-  {
     "id": "7sm1pntha6u01mk5k1c3dcle3d@google.com-2026-09-24",
     "title": "Festival Actée",
     "start": "2026-09-24",
@@ -494,10 +468,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -507,10 +481,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
