@@ -169,6 +169,19 @@
     "structure": "Le Générateur"
   },
   {
+    "id": "7gqqp17elv5117244rgm67l0jl@google.com-2026-10-03T14:00:00+02:00",
+    "title": "Portes ouvertes du 6b",
+    "start": "2026-10-03T14:00:00+02:00",
+    "end": "2026-10-03T18:00:00+02:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "membres",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": null
+  },
+  {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-03T17:00:00+02:00",
     "title": "Festival (Re)Mix - #4 : Violence, Alison Skidmore & Andy Stott",
     "start": "2026-10-03T17:00:00+02:00",
@@ -455,10 +468,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -468,10 +481,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
