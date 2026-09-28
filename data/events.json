@@ -260,19 +260,6 @@
     "structure": null
   },
   {
-    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
-    "title": "Rencontres nationales inter-asso FRAAP Marseille",
-    "start": "2026-11-05",
-    "end": "2026-11-08",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
-  },
-  {
     "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
     "title": "Forum international des résidences artistiques et territoires",
     "start": "2026-11-05",
@@ -283,6 +270,19 @@
     "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
     "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
     "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
+    "structure": null
+  },
+  {
+    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
+    "title": "Rencontres nationales inter-asso FRAAP Marseille",
+    "start": "2026-11-05",
+    "end": "2026-11-08",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "",
+    "registrationUrl": null,
+    "infoUrl": null,
     "structure": null
   },
   {
