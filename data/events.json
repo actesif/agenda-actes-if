@@ -1,18 +1,5 @@
 [
   {
-    "id": "6og8dse740ostlsm534ap35ro4@google.com-2026-09-27T14:00:00+02:00",
-    "title": "JOURNÉE DE SOUTIEN : La fête foraine",
-    "start": "2026-09-27T14:00:00+02:00",
-    "end": "2026-09-27T23:00:00+02:00",
-    "allDay": false,
-    "location": "Théâtre de Verdure de La Girandole, 65 Rue Pierre de Montreuil, 93100 Montreuil, France",
-    "calendarKey": "membres",
-    "description": "L’année 2026 marque un tournant dans l’histoire de La Girandole avec une diminution considérable des subventions publiques et des donations privées. Nous organisons donc une Journée de Soutien le dimanche 27 septembre de 14h à 23h au Théâtre de Verdure. Depuis l’ouverture du Théâtre en Dur à Croix de Chavaux et du Théâtre de Verdure dans les Murs à Pêches, vous avez toujours été au rendez-vous de nos spectacles, festivals, repas de quartiers, déambulations, concerts… Alors nous comptons sur vous pour être là car sans vous, le moulin de la Gigi ne tourne pas ! Encore un moment toustes ensemble, l’occasion de nous retrouver, d’échanger autour de la situation critique, de récolter des fonds, mais aussi et surtout de mettre en lumière notre travail culturel et social. Une programmation festive et solidaire sera spécialement concoctée pour cette journée. Au programme : cabaret artistique, fête foraine, stands, bar, cantine, jeux… Cette journée de mobilisation se fera avec nos bénévoles, nos partenaires, nos ami·es, nos artistes… elle ne se fera donc pas sans nos publics qui ont fait l’histoire de nos lieux !",
-    "registrationUrl": null,
-    "infoUrl": "https://www.girandole.fr/events/journee-de-soutien-la-fete-foraine/",
-    "structure": "La Girandole"
-  },
-  {
     "id": "42t49mme1a5b9uju3e9p37ltga@google.com-2026-09-28T08:00:00+00:00",
     "title": "DRAC IDF - Culture et lien social - Webinaire information",
     "start": "2026-09-28T08:00:00+00:00",
@@ -390,10 +377,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -403,10 +390,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
