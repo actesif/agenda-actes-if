@@ -1,18 +1,5 @@
 [
   {
-    "id": "302de5b3tiskua0tla9att7poh@google.com-2026-09-29T19:00:00+02:00",
-    "title": "Soirée de présentation de saison",
-    "start": "2026-09-29T19:00:00+02:00",
-    "end": "2026-09-29T19:30:00+02:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "membres",
-    "description": "RDV à la rentrée pour notre présentation de saison MARDI 29 SEPTEMBRE Nous avons hâte de partager avec vous les découvertes et coups de cœur issus de notre dernier comité de sélection. Des formes, des narrations, des esthétiques qui témoignent de la grande vitalité de la marionnette contemporaine ! Après un mot d'accueil de notre nouvelle directrice, Alexandra Vuillet, et de toute l'équipe, vous déambulerez dans une Nef scénographiée pour l’occasion par les plasticiennes Marine Dubois et Stéphanie Saint Cyr Lariflette. La soirée sera placée sous le signe de la rencontre des disciplines avec une carte blanche proposée à deux apprenti·es artistes de l'Académie Fratellini, Zohar Baron et Sagi Sharon.",
-    "registrationUrl": null,
-    "infoUrl": "https://la-nef.org/fr/programmation/saison-26-27/soiree-de-presentation-de-saison",
-    "structure": "La Nef"
-  },
-  {
     "id": "45vv8bh7jpfl8mjp30hrglr3sl@google.com-2026-09-30",
     "title": "Institut Français - Programme international de diffusion artistique (PIDA)",
     "start": "2026-09-30",
@@ -234,19 +221,6 @@
     "structure": null
   },
   {
-    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
-    "title": "Forum international des résidences artistiques et territoires",
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "allDay": true,
-    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
-    "calendarKey": "partenaires",
-    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
-    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
-    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
-    "structure": null
-  },
-  {
     "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
     "title": "Rencontres nationales inter-asso FRAAP Marseille",
     "start": "2026-11-05",
@@ -257,6 +231,19 @@
     "description": "",
     "registrationUrl": null,
     "infoUrl": null,
+    "structure": null
+  },
+  {
+    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
+    "title": "Forum international des résidences artistiques et territoires",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "allDay": true,
+    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
+    "calendarKey": "partenaires",
+    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
+    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
+    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
     "structure": null
   },
   {
