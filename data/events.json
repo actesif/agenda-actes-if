@@ -7,10 +7,10 @@
     "allDay": true,
     "location": "",
     "calendarKey": "membres",
-    "description": "Structure : L'abominableProgramme des Rencontres Mercredi 30 septembre – Projections - cinéma L’Écran à Saint-Denis 18h30 Discussion avec le ministère de la Culture et les cinéastes invités sur les pratiques du cinéma argentique et le patrimoine culturel immatériel 19h15 - Projection de Un Chant Aveugle, de Stefano Canapa et Natacha Muslera (16mm sur DCP, 63 min, 2026) 20h30 Entracte autour d'un verre 21h00 Projection de Hair, Paper, Water, de Nicolas Graux et Truong Minh Quy (16mm sur DCP, 71min, 2025) Jeudi 1 octobre – Rencontres Jour 1 - MSH Nord à Saint-Denis 9h30 – 12h15 Plénière Le cinéma argentique comme patrimoine culturel immatériel (ouvert au public) 14h00 – 15h00 Balade urbaine : à la découverte des industries techniques du cinéma de la Plaine Saint-Denis (ouvert au public, sur inscription) 14h00 - 18h00 Ateliers mesures de sauvegarde (sur invitation) : « Formations »; « Cinéastes », « Machines et Matériels » et « Conservation et Restauration » Vendredi 2 octobre – Rencontres Jour 2 - MSH Nord à Saint-Denis 9h00 – 13h30 Ateliers mesures de sauvegarde (sur invitation) : « Prise de vues », « Laboratoires », « Distribution et Projection » et « Amateurs et Collectionneurs » 15h00 -17h00 Plénière : Restitution des mesures de sauvegarde (ouvert au public) 17h00 Temps d’échange autour d’un verre Samedi 3 octobre – Visite - Laboratoires Éclair à Épinay-sur-Seine 10h30 Visite du Navire Argo (ouvert au public, sur inscription)",
+    "description": "Structure : L'Abominable Programme des Rencontres Mercredi 30 septembre – Projections - cinéma L’Écran à Saint-Denis 18h30 Discussion avec le ministère de la Culture et les cinéastes invités sur les pratiques du cinéma argentique et le patrimoine culturel immatériel 19h15 - Projection de Un Chant Aveugle, de Stefano Canapa et Natacha Muslera (16mm sur DCP, 63 min, 2026) 20h30 Entracte autour d'un verre 21h00 Projection de Hair, Paper, Water, de Nicolas Graux et Truong Minh Quy (16mm sur DCP, 71min, 2025) Jeudi 1 octobre – Rencontres Jour 1 - MSH Nord à Saint-Denis 9h30 – 12h15 Plénière Le cinéma argentique comme patrimoine culturel immatériel (ouvert au public) 14h00 – 15h00 Balade urbaine : à la découverte des industries techniques du cinéma de la Plaine Saint-Denis (ouvert au public, sur inscription) 14h00 - 18h00 Ateliers mesures de sauvegarde (sur invitation) : « Formations »; « Cinéastes », « Machines et Matériels » et « Conservation et Restauration » Vendredi 2 octobre – Rencontres Jour 2 - MSH Nord à Saint-Denis 9h00 – 13h30 Ateliers mesures de sauvegarde (sur invitation) : « Prise de vues », « Laboratoires », « Distribution et Projection » et « Amateurs et Collectionneurs » 15h00 -17h00 Plénière : Restitution des mesures de sauvegarde (ouvert au public) 17h00 Temps d’échange autour d’un verre Samedi 3 octobre – Visite - Laboratoires Éclair à Épinay-sur-Seine 10h30 Visite du Navire Argo (ouvert au public, sur inscription)",
     "registrationUrl": "https://www.l-abominable.org?mailpoet_router&endpoint=track&action=click&data=WyI5OTg4IiwiODRmN2U3IiwiODEiLCI0NmQ1MjY5ZTc0MzAiLGZhbHNlXQ",
     "infoUrl": null,
-    "structure": null
+    "structure": "L'Abominable"
   },
   {
     "id": "14ren2p322t9blhdgkd0fiqlr1@google.com-2026-10-03",
@@ -29,20 +29,20 @@
     "id": "7gqqp17elv5117244rgm67l0jl@google.com-2026-10-03T14:00:00+02:00",
     "title": "Portes ouvertes du 6b",
     "start": "2026-10-03T14:00:00+02:00",
-    "end": "2026-10-03T18:00:00+02:00",
+    "end": "2026-10-04T00:00:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Le 6b, 6-10 Quai de Seine, 93200 Saint-Denis, France",
     "calendarKey": "membres",
-    "description": "",
+    "description": "Événement phare du 6b, les Portes Ouvertes sont un rendez-vous unique et festif, où le lieu se transforme le temps d’une journée en un grand terrain d’expérimentation. Déployé sur près de 7 000 m², 6 étages et de grands espaces extérieurs, le 6b est un immense vaisseau de béton qui fait vibrer Saint-Denis depuis plus de quinze ans. Ancien immeuble de bureaux d’Alstom, le 6b est devenu une ruche créative autogérée, où plus de 250 artistes, artisan·es et associations du champ social et écologique se retrouvent chaque jour pour créer, échanger et faire bouger les choses. Ateliers d’artistes, espaces de création et de diffusion, salles de danse et de projection, fabrique, studio de musique, restaurant, jardin, plage… Le 6b est un lieu vivant, foisonnant et en perpétuel mouvement, porté par une histoire singulière de gestion collective et d’ancrage territorial.",
     "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
+    "infoUrl": "https://www.facebook.com/events/1771657793858737",
+    "structure": "Le 6b"
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-03T17:00:00+02:00",
-    "title": "Festival (Re)Mix - #4 : Violence, Alison Skidmore & Andy Stott",
+    "title": "Festival (Re)Mix - #3 : Una Furtiva Lagrima, extrait de l’opéra italien L’elisir d’amore Gaetano Donizetti",
     "start": "2026-10-03T17:00:00+02:00",
-    "end": "2026-10-04T00:00:00+02:00",
+    "end": "2026-10-04T22:00:00+02:00",
     "allDay": false,
     "location": "Péniche La Pop, Bassin de la villette, 61 Quai de la Seine face au, 75019 Paris, France",
     "calendarKey": "membres",
@@ -70,11 +70,11 @@
     "start": "2026-10-05T10:00:00+02:00",
     "end": "2026-10-06T18:00:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "21 Rue des Malmaisons, 75013 Paris, France",
     "calendarKey": "partenaires",
-    "description": "Le séminaire annuel de l'USFIC est un temps de rencontre entre les réseaux et fédérations de l'UFISC ouvertes à l'ensemble de leurs membres. Programme et lieu à venir",
+    "description": "Le séminaire annuel de l'USFIC est un temps de rencontre entre les réseaux et fédérations de l'UFISC ouvertes à l'ensemble de leurs membres.",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://cloud.ufisc.org/s/dZQnowiggpM9mY4?dir=/&editing=false&openfile=true",
     "structure": null
   },
   {
@@ -118,7 +118,7 @@
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-10T17:00:00+02:00",
-    "title": "Festival (Re)Mix - #3 : Una Furtiva Lagrima, extrait de l’opéra italien L’elisir d’amore Gaetano Donizetti",
+    "title": "Festival (Re)Mix - #4 : Violence, Alison Skidmore & Andy Stott",
     "start": "2026-10-10T17:00:00+02:00",
     "end": "2026-10-11T00:00:00+02:00",
     "allDay": false,
@@ -163,22 +163,35 @@
     "allDay": false,
     "location": "Villette, 75019 Paris, France",
     "calendarKey": "partenaires",
-    "description": "Un après-midi pour réfléchir à une éducation artistique et culturelle (EAC) accessible à toutes et tous, en croisant les pratiques de l’Éducation nationale, de la culture et du secteur médico-social. Avec le soutien de la Fondation Malakoff Humanis Handicap, La Villette et IMAGO-LE RÉSEAU renouvellent leur partenariat et proposent, dans le cadre du Festival IMAGO, une rencontre autour d’une ambition partagée : décloisonner les pratiques, faire dialoguer les secteurs et ouvrir de nouvelles voies de coopération autour de l’EAC et du handicap. Encore trop souvent associée à l’école et aux jeunes publics, l’éducation artistique et culturelle s’adresse pourtant à toutes et tous, à tous les âges de la vie. Dans le secteur médico-social, de nombreux projets artistiques et culturels s’inscrivent déjà dans cette démarche, sans toujours être reconnus ou désignés comme des “projets EAC”. Ouverte aux professionnels comme à toute personne intéressée par ces enjeux, cette rencontre réunira des personnes concernées, des artistes et des professionnels du secteur culturel, éducatif, sanitaire et médico-social. Elle permettra de partager les expériences et de faire émerger des pistes d’actions communes pour faire vivre l’EAC auprès de tous les publics. Inscriptions L’événement est gratuit avec obligation d’inscription, dans la limite des places disponibles. Accessibilité Cet après-midi est pensé de manière accessible. Plusieurs services d’accessibilité sont prévus : interprètes LSF, vélotypie, Souffleurs d’Images, zone calme. Les espaces sont accessibles aux personnes à mobilité réduite. N’hésitez pas à communiquer vos besoins d’accessibilité au moment de l’inscription. Pour plus de renseignements, contactez accessibilite@villette.com Au programme Ouverture des portes à 13h Rendez-vous à la Grande Halle, salle Boris Vian, munis de vos billets",
+    "description": "Un après-midi pour réfléchir à une éducation artistique et culturelle (EAC) accessible à toutes et tous, en croisant les pratiques de l’Éducation nationale, de la culture et du secteur médico-social.Avec le soutien de la Fondation Malakoff Humanis Handicap, La Villette et IMAGO-LE RÉSEAU renouvellent leur partenariat et proposent, dans le cadre du Festival IMAGO, une rencontre autour d’une ambition partagée : décloisonner les pratiques, faire dialoguer les secteurs et ouvrir de nouvelles voies de coopération autour de l’EAC et du handicap. Encore trop souvent associée à l’école et aux jeunes publics, l’éducation artistique et culturelle s’adresse pourtant à toutes et tous, à tous les âges de la vie. Dans le secteur médico-social, de nombreux projets artistiques et culturels s’inscrivent déjà dans cette démarche, sans toujours être reconnus ou désignés comme des “projets EAC”. Ouverte aux professionnels comme à toute personne intéressée par ces enjeux, cette rencontre réunira des personnes concernées, des artistes et des professionnels du secteur culturel, éducatif, sanitaire et médico-social. Elle permettra de partager les expériences et de faire émerger des pistes d’actions communes pour faire vivre l’EAC auprès de tous les publics. Inscription : L’événement est gratuit avec obligation d’inscription, dans la limite des places disponibles. Accessibilité Cet après-midi est pensé de manière accessible. Plusieurs services d’accessibilité sont prévus : interprètes LSF, vélotypie, Souffleurs d’Images, zone calme. Les espaces sont accessibles aux personnes à mobilité réduite. N’hésitez pas à communiquer vos besoins d’accessibilité au moment de l’inscription. Pour plus de renseignements, contactez accessibilite@villette.com Au programme Ouverture des portes à 13h Rendez-vous à la Grande Halle, salle Boris Vian, munis de vos billets",
+    "registrationUrl": "https://www.google.com/url?q=https://www.billetweb.fr/eac-et-handicap-toutes-et-tous-concernes&sa=D&source=calendar&usd=2&usg=AOvVaw0AyyloqwBhrnNKLclSueCc",
+    "infoUrl": "https://www.lavillette.com/manifestations/eac-et-handicap-toutes-et-tous-concernes/",
+    "structure": null
+  },
+  {
+    "id": "7i7iji7gp4qorb20bqapcp6l0n@google.com-2026-10-15",
+    "title": "LUMI — Lieux Unis pour la Musique Intergénérationnelle -  Sacem/RamDam",
+    "start": "2026-10-15",
+    "end": "2026-10-16",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://www.aide-aux-projets.sacem.fr/appels-projets/lumi-lieux-unis-pour-la-musique-intergenerationnelle/consultation",
     "structure": null
   },
   {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
-    "title": "Journée politique de la FéRue",
+    "title": "Du commun au concret : journée politique de la FéRue",
     "start": "2026-10-16",
     "end": "2026-10-17",
     "allDay": true,
-    "location": "",
+    "location": "Mains d'Œuvres, 1 Rue Charles Garnier, 93400 Saint-Ouen-sur-Seine, France",
     "calendarKey": "partenaires",
-    "description": "\"Journée politique de la FéRue, mobilisons-nous pour redessiner ensemble les grandes actions de la fédé francilienne, nos priorités et nos forces.\" Détails à venir.",
-    "registrationUrl": null,
-    "infoUrl": null,
+    "description": "La FéRue vous invite à sa journée politique, Du commun au concret, le vendredi 16 octobre à Mains d’Œuvres (1 rue Charles Garnier 93400 Saint-Ouen-sur-Seine). Le projet d’activités à 3 ans en cours de la FéRue, que vous pouvez consulter ici, arrive à son terme en décembre 2026. Nous vous invitons à nous réunir le temps d’une journée pour construire ensemble le prochain projet de la FéRue, et ainsi penser aux chantiers à prioriser. En 2020, suite au chantier de refonte du mode de gouvernance, la FéRue a eu pour volonté d’inscrire son projet sur trois ans afin de penser le développement de ses axes de travail sur la durée, de pérenniser ses objectifs et de favoriser la transmission entre les membres qui la composent. Ce projet, c’est avant tout vous qu’il concerne : quelle·s revendication·s pour le secteur souhaitez-vous que la FéRue porte ? Quels chantiers voulez-vous développer ? Quelles actions voulez-vous mener ?",
+    "registrationUrl": "https://ferue.frama.space/apps/forms/s/4WtFaDJpeZKbpoTjnHcxCRK3",
+    "infoUrl": "https://www.federationartsdelarueidf.org/journeepolitique2026/",
     "structure": null
   },
   {
@@ -214,7 +227,7 @@
     "end": "2026-10-23",
     "allDay": true,
     "location": "",
-    "calendarKey": "partenaires",
+    "calendarKey": "subventions",
     "description": "La nouvelle édition de ce programme, qui finance des tournées plus durables au sein d’Europe Créative, met l’accent sur l’inclusion et la diversité, et la lutte contre le changement climatique. Dispositif de financement européen doté d’1,4 M€, Perform Europe encourage et soutient, dans le secteur du spectacle vivant, des projets de tournées innovantes à travers les 41 pays du programme Europe Créative. Après deux éditions réussies (2020-2022 et 2023-2026), la troisième poursuit le même objectif, en ajoutant deux priorités complémentaires : l’inclusion et la diversité, ainsi que la lutte contre le changement climatique. Peuvent postuler des organisations ou des professionnels du spectacle basés dans l’un des pays d’Europe Créative, auxquels s’ajoutent 14 participants non-membres de l’UE. Chaque projet doit réunir au moins trois partenaires issus de trois pays différents, et présenter une œuvre finalisée (hors musique live et opéra) dans au moins trois pays. Perform Europe ne prend pas en charge les coûts de production de nouvelles créations.",
     "registrationUrl": null,
     "infoUrl": "https://www.artcena.fr/fil-vie-pro/perform-europe-2026-2028-lappel-a-projets-est-ouvert",
@@ -231,6 +244,19 @@
     "description": "Différent objets à la fois concrets et de réflexions stratégiques pourraient structurer la discussion : les relations aux institutions et aux financements : situations particulières, alertes sur l'avenir + partage d'actualités des mobilisations que vous avez initiées ou dans lesquelles vous êtes impliqués Analyse collective des résultats de l'état des lieux sur 2025 Un grand merci pour vos contributions à l'enquête. Après un travail de nettoyage, les premiers résultats seront disponibles, en vue notamment de les présenter pour les 30 ans du réseau. Un temps d'analyse collective serait particulièrement riche et permettrait de tirer de nombreux fils. Table-ronde des 30 ans du réseau le 20 novembre Les 30 ans se tiendront à la Villa Mais d'Ici. Suite aux derniers échanges on s'oriente vers une grosse table-ronde en 2 temps l'après-midi, suivi d'une fête le soir ! On compte sur vous, n'hésitez pas à sauvegarder la date. Ici une synthèse des orientations actuelles de la journée et le document de travail pour la construction des table-ronde. Vous êtes chaleureusement invité.e.s à y contribuer avec la fonction commentaire, ou par retour de mail : - objectifs ; problématisation ; intentions ; intervenan.tes - tout retour sera bienvenue. A un mois de l'évènement le 22 octobre, l'idée serait de pouvoir affiner la construction de cette table-ronde lors du GT et les prises de parole du réseau.",
     "registrationUrl": "https://beta.framadate.org/polls/5b4e1927176318998f98",
     "infoUrl": null,
+    "structure": null
+  },
+  {
+    "id": "1uoemb9ibaddth57ei3doucq6v@google.com-2026-10-30T19:27:00+00:00",
+    "title": "Institut Français - Programme international de diffusion artistique (PIDA)",
+    "start": "2026-10-30T19:27:00+00:00",
+    "end": "2026-10-30T20:27:00+00:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "Ce programme soutient aussi bien la diffusion, la coopération internationale, que la participation d’artistes français à des événements majeurs dédiés à la création contemporaine dans le monde.",
+    "registrationUrl": null,
+    "infoUrl": "https://www.artcena.fr/fil-vie-pro/programme-international-de-diffusion-artistique-pida-2027",
     "structure": null
   },
   {
@@ -257,6 +283,19 @@
     "description": "Dans la continuité du travail engagé par Actes If sur la prévention et la lutte contre les violences et harcèlements sexistes et sexuels (VHSS), ce groupe de travail poursuit la construction d’outils communs pour accompagner les lieux du réseau. Les échanges porteront notamment sur la rédaction d’une charte VHSS commune, la mutualisation de ressources et la mise en place d’une cellule de référent·es VHSS entre membres.",
     "registrationUrl": "https://beta.framadate.org/polls/838d8b65a4ba5fa797b4",
     "infoUrl": null,
+    "structure": null
+  },
+  {
+    "id": "5im28d8sb28875mp789jbhu3so@google.com-2026-11-03",
+    "title": "Aide à la création dans le domaine du spectacle vivant (Région IDF)",
+    "start": "2026-11-03",
+    "end": "2026-11-04",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "L'aide à la création vise à soutenir la vitalité de la création sur le territoire francilien, la diversité des esthétiques du spectacle vivant, l'innovation artistique, le renouvellement des formes et leur diffusion auprès des publics franciliens.",
+    "registrationUrl": null,
+    "infoUrl": "https://www.iledefrance.fr/aides-et-appels-a-projets/aide-la-creation-dans-le-domaine-du-spectacle-vivant",
     "structure": null
   },
   {
@@ -306,9 +345,9 @@
     "allDay": true,
     "location": "",
     "calendarKey": "subventions",
-    "description": "Lien : https://www.culture.gouv.fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/culture-et-lien-social",
+    "description": "Actions d'éducation artistique et culturelle favorisant la cohésion sociale en QPV",
     "registrationUrl": null,
-    "infoUrl": null,
+    "infoUrl": "https://www.culture.gouv.fr/catalogue-des-demarches-et-subventions/appels-a-projets-candidatures/culture-et-lien-social",
     "structure": null
   },
   {
@@ -377,19 +416,6 @@
     "structure": null
   },
   {
-    "id": "35pkp12o97513q4m5vq3khbjv5@google.com-2026-11-30",
-    "title": "CR IDF - Forte - date limite de dépôt",
-    "start": "2026-11-30",
-    "end": "2026-12-01",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": "https://www.iledefrance.fr/franciliens-vivre-en-ile-de-france/culture/forte-fonds-regional-pour-les-talents-emergents",
-    "structure": null
-  },
-  {
     "id": "4dnr46drvbr8frslf9vo4sc4pi@google.com-2026-11-30",
     "title": "FoRTE – Fonds régional pour les talents émergents",
     "start": "2026-11-30",
@@ -416,10 +442,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -429,10 +455,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
