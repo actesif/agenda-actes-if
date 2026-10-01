@@ -59,14 +59,14 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau",
+    "description": "Structure : Groupe des 20 L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau",
     "registrationUrl": "https://www.g20iledefrance.fr/les-plateaux-2026/",
     "infoUrl": null,
     "structure": null
   },
   {
     "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05T10:00:00+02:00",
-    "title": "Séminaire annuel UFISC",
+    "title": "Séminaire annuel de l'UFISC",
     "start": "2026-10-05T10:00:00+02:00",
     "end": "2026-10-06T18:00:00+02:00",
     "allDay": false,
@@ -75,7 +75,7 @@
     "description": "Le séminaire annuel de l'USFIC est un temps de rencontre entre les réseaux et fédérations de l'UFISC ouvertes à l'ensemble de leurs membres.",
     "registrationUrl": null,
     "infoUrl": "https://cloud.ufisc.org/s/dZQnowiggpM9mY4?dir=/&editing=false&openfile=true",
-    "structure": null
+    "structure": "UFISC"
   },
   {
     "id": "50heke3bpgtl6vjct1kqut79o0@google.com-2026-10-05T18:00:00+02:00",
@@ -88,7 +88,7 @@
     "description": "Conférence de presse de la Mobilisation et Coopération Art et Culture (MCAC), coordonnée par l’UFISC.Présentation des premiers résultats de la grande enquête nationale sur le financement et le pouvoir d’agir des structures culturelles, menée auprès de près de 500 structures, ainsi que des préconisations de la MCAC. La rencontre sera suivie d’un échange avec plusieurs partenaires publics et élu·es sur les difficultés actuelles du secteur culturel, son rôle citoyen et les coopérations à construire. Seront présent·es à nos côtés pour débattre : Pouria AMIRSHAHI, Député de Paris Erwan BALANANT, Député du Finistère, rapporteur des programmes culture (131 et 361) de la commission culture (sous-réserve) Karine DANIEL, Sénatrice de la Loire-Atlantique, rapporteuse des programmes culture (131 et 361) de la commission culture (sous-réserve) Alexie LORCA, élue de la culture à Montreuil et vice-Présidente de la FNCC (obligatoire)",
     "registrationUrl": "https://framaforms.org/inscription-conference-de-presse-mcac-1790199970",
     "infoUrl": null,
-    "structure": null
+    "structure": "MCAC - UFISC"
   },
   {
     "id": "585m4g7od36n292i21pse07klg@google.com-2026-10-08T10:00:00+02:00",
@@ -101,20 +101,20 @@
     "description": "",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "01ir5can86gtf48r3b61br1f5a@google.com-2026-10-09T11:00:00+02:00",
-    "title": "ANTL - webinaire AAP européen Tiers-Lieux",
+    "title": "webinaire AAP européen Tiers-Lieux",
     "start": "2026-10-09T11:00:00+02:00",
     "end": "2026-10-09T12:30:00+02:00",
     "allDay": false,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "WEBINAIRE APPELS À PROJETS EUROPÉENS Financements européens en cours ou futurs, retours d'expérience par les paires, réponses à vos questions : L'Association Nationale des Tiers-Lieux s'associe à Relais Culture Europe, Europe Créative et l'Agence Erasmus pour un webinaire d'information et de d'échange sur certains fonds européens qui peuvent soutenir les tiers-lieux. Au programme : la présentation des appels « Culture Moves Europe » et « Coopération » du volet Culture d'Europe Créative, ainsi que du programme Erasmus+, des témoignages de tiers-lieux et de réseaux qui sont déjà passés par là, et un temps dédié pour poser vos questions sur ces fonds. Rendez-vous le 9 octobre 2026 de 11h à 12h30 : inscrivez-vous dès maintenant, le lien de connexion vous sera envoyé juste avant. Ce webinaire s'adresse aux tiers-lieux et à leurs réseaux",
+    "description": "Financements européens en cours ou futurs, retours d'expérience par les paires, réponses à vos questions : L'Association Nationale des Tiers-Lieux s'associe à Relais Culture Europe, Europe Créative et l'Agence Erasmus pour un webinaire d'information et de d'échange sur certains fonds européens qui peuvent soutenir les tiers-lieux. Au programme : la présentation des appels « Culture Moves Europe » et « Coopération » du volet Culture d'Europe Créative, ainsi que du programme Erasmus+, des témoignages de tiers-lieux et de réseaux qui sont déjà passés par là, et un temps dédié pour poser vos questions sur ces fonds. Rendez-vous le 9 octobre 2026 de 11h à 12h30 : inscrivez-vous dès maintenant, le lien de connexion vous sera envoyé juste avant. Ce webinaire s'adresse aux tiers-lieux et à leurs réseaux",
     "registrationUrl": "https://9u1q1.r.a.d.sendibm1.com/mk/cl/f/sh/1t6Af4OiGsF30hSyBohPkzlzStN5fx/QqNaIftE54PP",
     "infoUrl": null,
-    "structure": null
+    "structure": "ANTL WEBINAIRE APPELS À PROJETS EUROPÉENS"
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-10T17:00:00+02:00",
@@ -140,7 +140,7 @@
     "description": "Bouclage de la programmation du prochain Sur Un Plateau : finalisation de la sélection des projets éligibles à l’aide à la création DRAC IDF.",
     "registrationUrl": "https://beta.framadate.org/polls/9add73387d48d2b08c1d",
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "36sammsneu3i7kq92pqatk5gh2@google.com-2026-10-14",
@@ -157,13 +157,13 @@
   },
   {
     "id": "4kkfbq68v6jh62et8p65h16l00@google.com-2026-10-14T13:00:00+02:00",
-    "title": "EAC ET HANDICAP, TOUTES ET TOUS CONCERNÉS !",
+    "title": "EAC et Handycape : toutes et tous concerné.e.s.",
     "start": "2026-10-14T13:00:00+02:00",
     "end": "2026-10-14T19:00:00+02:00",
     "allDay": false,
     "location": "Villette, 75019 Paris, France",
     "calendarKey": "partenaires",
-    "description": "Un après-midi pour réfléchir à une éducation artistique et culturelle (EAC) accessible à toutes et tous, en croisant les pratiques de l’Éducation nationale, de la culture et du secteur médico-social.Avec le soutien de la Fondation Malakoff Humanis Handicap, La Villette et IMAGO-LE RÉSEAU renouvellent leur partenariat et proposent, dans le cadre du Festival IMAGO, une rencontre autour d’une ambition partagée : décloisonner les pratiques, faire dialoguer les secteurs et ouvrir de nouvelles voies de coopération autour de l’EAC et du handicap. Encore trop souvent associée à l’école et aux jeunes publics, l’éducation artistique et culturelle s’adresse pourtant à toutes et tous, à tous les âges de la vie. Dans le secteur médico-social, de nombreux projets artistiques et culturels s’inscrivent déjà dans cette démarche, sans toujours être reconnus ou désignés comme des “projets EAC”. Ouverte aux professionnels comme à toute personne intéressée par ces enjeux, cette rencontre réunira des personnes concernées, des artistes et des professionnels du secteur culturel, éducatif, sanitaire et médico-social. Elle permettra de partager les expériences et de faire émerger des pistes d’actions communes pour faire vivre l’EAC auprès de tous les publics. Inscription : L’événement est gratuit avec obligation d’inscription, dans la limite des places disponibles. Accessibilité Cet après-midi est pensé de manière accessible. Plusieurs services d’accessibilité sont prévus : interprètes LSF, vélotypie, Souffleurs d’Images, zone calme. Les espaces sont accessibles aux personnes à mobilité réduite. N’hésitez pas à communiquer vos besoins d’accessibilité au moment de l’inscription. Pour plus de renseignements, contactez accessibilite@villette.com Au programme Ouverture des portes à 13h Rendez-vous à la Grande Halle, salle Boris Vian, munis de vos billets",
+    "description": "Structure : réseau ImagoUn après-midi pour réfléchir à une éducation artistique et culturelle (EAC) accessible à toutes et tous, en croisant les pratiques de l’Éducation nationale, de la culture et du secteur médico-social.Avec le soutien de la Fondation Malakoff Humanis Handicap, La Villette et IMAGO-LE RÉSEAU renouvellent leur partenariat et proposent, dans le cadre du Festival IMAGO, une rencontre autour d’une ambition partagée : décloisonner les pratiques, faire dialoguer les secteurs et ouvrir de nouvelles voies de coopération autour de l’EAC et du handicap. Encore trop souvent associée à l’école et aux jeunes publics, l’éducation artistique et culturelle s’adresse pourtant à toutes et tous, à tous les âges de la vie. Dans le secteur médico-social, de nombreux projets artistiques et culturels s’inscrivent déjà dans cette démarche, sans toujours être reconnus ou désignés comme des “projets EAC”. Ouverte aux professionnels comme à toute personne intéressée par ces enjeux, cette rencontre réunira des personnes concernées, des artistes et des professionnels du secteur culturel, éducatif, sanitaire et médico-social. Elle permettra de partager les expériences et de faire émerger des pistes d’actions communes pour faire vivre l’EAC auprès de tous les publics. Inscription : L’événement est gratuit avec obligation d’inscription, dans la limite des places disponibles. Accessibilité Cet après-midi est pensé de manière accessible. Plusieurs services d’accessibilité sont prévus : interprètes LSF, vélotypie, Souffleurs d’Images, zone calme. Les espaces sont accessibles aux personnes à mobilité réduite. N’hésitez pas à communiquer vos besoins d’accessibilité au moment de l’inscription. Pour plus de renseignements, contactez accessibilite@villette.com Au programme Ouverture des portes à 13h Rendez-vous à la Grande Halle, salle Boris Vian, munis de vos billets",
     "registrationUrl": "https://www.google.com/url?q=https://www.billetweb.fr/eac-et-handicap-toutes-et-tous-concernes&sa=D&source=calendar&usd=2&usg=AOvVaw0AyyloqwBhrnNKLclSueCc",
     "infoUrl": "https://www.lavillette.com/manifestations/eac-et-handicap-toutes-et-tous-concernes/",
     "structure": null
@@ -192,7 +192,7 @@
     "description": "La FéRue vous invite à sa journée politique, Du commun au concret, le vendredi 16 octobre à Mains d’Œuvres (1 rue Charles Garnier 93400 Saint-Ouen-sur-Seine). Le projet d’activités à 3 ans en cours de la FéRue, que vous pouvez consulter ici, arrive à son terme en décembre 2026. Nous vous invitons à nous réunir le temps d’une journée pour construire ensemble le prochain projet de la FéRue, et ainsi penser aux chantiers à prioriser. En 2020, suite au chantier de refonte du mode de gouvernance, la FéRue a eu pour volonté d’inscrire son projet sur trois ans afin de penser le développement de ses axes de travail sur la durée, de pérenniser ses objectifs et de favoriser la transmission entre les membres qui la composent. Ce projet, c’est avant tout vous qu’il concerne : quelle·s revendication·s pour le secteur souhaitez-vous que la FéRue porte ? Quels chantiers voulez-vous développer ? Quelles actions voulez-vous mener ?",
     "registrationUrl": "https://ferue.frama.space/apps/forms/s/4WtFaDJpeZKbpoTjnHcxCRK3",
     "infoUrl": "https://www.federationartsdelarueidf.org/journeepolitique2026/",
-    "structure": null
+    "structure": "La FéRue"
   },
   {
     "id": "0a6uet8pogfo21qmr82r98mesr@google.com-2026-10-17T14:00:00+02:00",
@@ -200,12 +200,12 @@
     "start": "2026-10-17T14:00:00+02:00",
     "end": "2026-10-17T15:30:00+02:00",
     "allDay": false,
-    "location": "",
+    "location": "Le Shakirail, 72 Rue Riquet, 75018 Paris, France",
     "calendarKey": "vie-asso",
     "description": "A l'occasion de l'évènement anniversaire des 20 ans du collectif Curry Vavart et des 15 ans du Shakirail, Actes If organise une table ronde en après-midi sur Les lieux artistiques et culturelscitoyens solidaires à Paris Plus de détails à venir",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "6orj4g10t458epukldg07r4glh@google.com-2026-10-21",
@@ -244,7 +244,7 @@
     "description": "Différent objets à la fois concrets et de réflexions stratégiques pourraient structurer la discussion : les relations aux institutions et aux financements : situations particulières, alertes sur l'avenir + partage d'actualités des mobilisations que vous avez initiées ou dans lesquelles vous êtes impliqués Analyse collective des résultats de l'état des lieux sur 2025 Un grand merci pour vos contributions à l'enquête. Après un travail de nettoyage, les premiers résultats seront disponibles, en vue notamment de les présenter pour les 30 ans du réseau. Un temps d'analyse collective serait particulièrement riche et permettrait de tirer de nombreux fils. Table-ronde des 30 ans du réseau le 20 novembre Les 30 ans se tiendront à la Villa Mais d'Ici. Suite aux derniers échanges on s'oriente vers une grosse table-ronde en 2 temps l'après-midi, suivi d'une fête le soir ! On compte sur vous, n'hésitez pas à sauvegarder la date. Ici une synthèse des orientations actuelles de la journée et le document de travail pour la construction des table-ronde. Vous êtes chaleureusement invité.e.s à y contribuer avec la fonction commentaire, ou par retour de mail : - objectifs ; problématisation ; intentions ; intervenan.tes - tout retour sera bienvenue. A un mois de l'évènement le 22 octobre, l'idée serait de pouvoir affiner la construction de cette table-ronde lors du GT et les prises de parole du réseau.",
     "registrationUrl": "https://beta.framadate.org/polls/5b4e1927176318998f98",
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "1uoemb9ibaddth57ei3doucq6v@google.com-2026-10-30T19:27:00+00:00",
@@ -309,7 +309,7 @@
     "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
     "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
     "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
-    "structure": null
+    "structure": "Les Ateliers Medicis"
   },
   {
     "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
@@ -319,10 +319,10 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "",
+    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "la FRAAP"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
@@ -335,7 +335,7 @@
     "description": "",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "0o4om408t9c40aef2l044kql4q@google.com-2026-11-09",
@@ -374,7 +374,7 @@
     "description": "",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes If"
   },
   {
     "id": "2b71esqso6nfv7amb911e48vst@google.com-2026-11-23",
@@ -400,7 +400,7 @@
     "description": "Rencontres professionnelles L'organisation de nos premières Rencontres professionnelles, qui se tiendront le 24 novembre à la Maison des Métallos (Paris), avance. Nous construisons un programme réservé le matin aux adhérents et ouvert au tout public l'après-midi. Ateliers, table-ronde et débats sont au programme. Plus d'informations très bientôt.",
     "registrationUrl": null,
     "infoUrl": null,
-    "structure": null
+    "structure": "Réseau Le Fil"
   },
   {
     "id": "7l5mamk5m7g91q08v43jvto9q2@google.com-2026-11-26",
@@ -439,7 +439,7 @@
     "description": "Ce groupe de travail vise à faire émerger une dynamique d’entraide entre les lieux du réseau autour des questions RH. Il accompagne la création d’une cellule thématique, le partage de ressources et la construction collective de ses modalités de fonctionnement.",
     "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa",
     "infoUrl": null,
-    "structure": null
+    "structure": "Actes if"
   },
   {
     "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
