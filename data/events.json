@@ -59,7 +59,7 @@
     "allDay": true,
     "location": "",
     "calendarKey": "partenaires",
-    "description": "Structure : Groupe des 20 L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau",
+    "description": "Structure : le groupe des 20 L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau",
     "registrationUrl": "https://www.g20iledefrance.fr/les-plateaux-2026/",
     "infoUrl": null,
     "structure": null
@@ -105,7 +105,7 @@
   },
   {
     "id": "01ir5can86gtf48r3b61br1f5a@google.com-2026-10-09T11:00:00+02:00",
-    "title": "webinaire AAP européen Tiers-Lieux",
+    "title": "webinaire appels à projets européens",
     "start": "2026-10-09T11:00:00+02:00",
     "end": "2026-10-09T12:30:00+02:00",
     "allDay": false,
@@ -114,7 +114,7 @@
     "description": "Financements européens en cours ou futurs, retours d'expérience par les paires, réponses à vos questions : L'Association Nationale des Tiers-Lieux s'associe à Relais Culture Europe, Europe Créative et l'Agence Erasmus pour un webinaire d'information et de d'échange sur certains fonds européens qui peuvent soutenir les tiers-lieux. Au programme : la présentation des appels « Culture Moves Europe » et « Coopération » du volet Culture d'Europe Créative, ainsi que du programme Erasmus+, des témoignages de tiers-lieux et de réseaux qui sont déjà passés par là, et un temps dédié pour poser vos questions sur ces fonds. Rendez-vous le 9 octobre 2026 de 11h à 12h30 : inscrivez-vous dès maintenant, le lien de connexion vous sera envoyé juste avant. Ce webinaire s'adresse aux tiers-lieux et à leurs réseaux",
     "registrationUrl": "https://9u1q1.r.a.d.sendibm1.com/mk/cl/f/sh/1t6Af4OiGsF30hSyBohPkzlzStN5fx/QqNaIftE54PP",
     "infoUrl": null,
-    "structure": "ANTL WEBINAIRE APPELS À PROJETS EUROPÉENS"
+    "structure": "Association nationale des tiers-lieux"
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-10T17:00:00+02:00",
@@ -442,10 +442,10 @@
     "structure": "Actes if"
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -455,10 +455,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
