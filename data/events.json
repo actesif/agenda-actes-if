@@ -1,18 +1,5 @@
 [
   {
-    "id": "263r12k5dpkfs0vl8s63hjmn2h@google.com-2026-09-30",
-    "title": "Rencontres du cinéma argentique",
-    "start": "2026-09-30",
-    "end": "2026-10-04",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "membres",
-    "description": "Structure : L'Abominable Programme des Rencontres Mercredi 30 septembre – Projections - cinéma L’Écran à Saint-Denis 18h30 Discussion avec le ministère de la Culture et les cinéastes invités sur les pratiques du cinéma argentique et le patrimoine culturel immatériel 19h15 - Projection de Un Chant Aveugle, de Stefano Canapa et Natacha Muslera (16mm sur DCP, 63 min, 2026) 20h30 Entracte autour d'un verre 21h00 Projection de Hair, Paper, Water, de Nicolas Graux et Truong Minh Quy (16mm sur DCP, 71min, 2025) Jeudi 1 octobre – Rencontres Jour 1 - MSH Nord à Saint-Denis 9h30 – 12h15 Plénière Le cinéma argentique comme patrimoine culturel immatériel (ouvert au public) 14h00 – 15h00 Balade urbaine : à la découverte des industries techniques du cinéma de la Plaine Saint-Denis (ouvert au public, sur inscription) 14h00 - 18h00 Ateliers mesures de sauvegarde (sur invitation) : « Formations »; « Cinéastes », « Machines et Matériels » et « Conservation et Restauration » Vendredi 2 octobre – Rencontres Jour 2 - MSH Nord à Saint-Denis 9h00 – 13h30 Ateliers mesures de sauvegarde (sur invitation) : « Prise de vues », « Laboratoires », « Distribution et Projection » et « Amateurs et Collectionneurs » 15h00 -17h00 Plénière : Restitution des mesures de sauvegarde (ouvert au public) 17h00 Temps d’échange autour d’un verre Samedi 3 octobre – Visite - Laboratoires Éclair à Épinay-sur-Seine 10h30 Visite du Navire Argo (ouvert au public, sur inscription)",
-    "registrationUrl": "https://www.l-abominable.org?mailpoet_router&endpoint=track&action=click&data=WyI5OTg4IiwiODRmN2U3IiwiODEiLCI0NmQ1MjY5ZTc0MzAiLGZhbHNlXQ",
-    "infoUrl": null,
-    "structure": "L'Abominable"
-  },
-  {
     "id": "14ren2p322t9blhdgkd0fiqlr1@google.com-2026-10-03",
     "title": "FRASQ #18 - Rencontres de la performance",
     "start": "2026-10-03",
@@ -24,19 +11,6 @@
     "registrationUrl": null,
     "infoUrl": "https://www.legenerateur.com/spectacle/frasq-rencontre-de-la-performance-18eme-edition/",
     "structure": "Le Générateur"
-  },
-  {
-    "id": "7gqqp17elv5117244rgm67l0jl@google.com-2026-10-03T14:00:00+02:00",
-    "title": "Portes ouvertes du 6b",
-    "start": "2026-10-03T14:00:00+02:00",
-    "end": "2026-10-04T00:00:00+02:00",
-    "allDay": false,
-    "location": "Le 6b, 6-10 Quai de Seine, 93200 Saint-Denis, France",
-    "calendarKey": "membres",
-    "description": "Événement phare du 6b, les Portes Ouvertes sont un rendez-vous unique et festif, où le lieu se transforme le temps d’une journée en un grand terrain d’expérimentation. Déployé sur près de 7 000 m², 6 étages et de grands espaces extérieurs, le 6b est un immense vaisseau de béton qui fait vibrer Saint-Denis depuis plus de quinze ans. Ancien immeuble de bureaux d’Alstom, le 6b est devenu une ruche créative autogérée, où plus de 250 artistes, artisan·es et associations du champ social et écologique se retrouvent chaque jour pour créer, échanger et faire bouger les choses. Ateliers d’artistes, espaces de création et de diffusion, salles de danse et de projection, fabrique, studio de musique, restaurant, jardin, plage… Le 6b est un lieu vivant, foisonnant et en perpétuel mouvement, porté par une histoire singulière de gestion collective et d’ancrage territorial.",
-    "registrationUrl": null,
-    "infoUrl": "https://www.facebook.com/events/1771657793858737",
-    "structure": "Le 6b"
   },
   {
     "id": "1v1kmqrsgcbekjn59q9agsuk30@google.com-2026-10-03T17:00:00+02:00",
@@ -299,19 +273,6 @@
     "structure": null
   },
   {
-    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
-    "title": "Forum international des résidences artistiques et territoires",
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "allDay": true,
-    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
-    "calendarKey": "partenaires",
-    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
-    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
-    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
-    "structure": "Les Ateliers Medicis"
-  },
-  {
     "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
     "title": "Rencontres nationales inter-asso FRAAP Marseille",
     "start": "2026-11-05",
@@ -323,6 +284,19 @@
     "registrationUrl": null,
     "infoUrl": null,
     "structure": "la FRAAP"
+  },
+  {
+    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
+    "title": "Forum international des résidences artistiques et territoires",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "allDay": true,
+    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
+    "calendarKey": "partenaires",
+    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
+    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
+    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
+    "structure": "Les Ateliers Medicis"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
@@ -442,10 +416,10 @@
     "structure": "Actes if"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -455,10 +429,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
