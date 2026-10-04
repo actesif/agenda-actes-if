@@ -273,19 +273,6 @@
     "structure": null
   },
   {
-    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
-    "title": "Rencontres nationales inter-asso FRAAP Marseille",
-    "start": "2026-11-05",
-    "end": "2026-11-08",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": "la FRAAP"
-  },
-  {
     "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
     "title": "Forum international des résidences artistiques et territoires",
     "start": "2026-11-05",
@@ -297,6 +284,19 @@
     "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
     "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
     "structure": "Les Ateliers Medicis"
+  },
+  {
+    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
+    "title": "Rencontres nationales inter-asso FRAAP Marseille",
+    "start": "2026-11-05",
+    "end": "2026-11-08",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": "la FRAAP"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
