@@ -39,19 +39,6 @@
     "structure": "UFISC"
   },
   {
-    "id": "50heke3bpgtl6vjct1kqut79o0@google.com-2026-10-05T18:00:00+02:00",
-    "title": "Conférence de presse - Culture sous pression : résultats d'enquête et propositions",
-    "start": "2026-10-05T18:00:00+02:00",
-    "end": "2026-10-05T20:00:00+02:00",
-    "allDay": false,
-    "location": "Petit Bain, 7 Port de la Gare, 75013 Paris, France",
-    "calendarKey": "partenaires",
-    "description": "Conférence de presse de la Mobilisation et Coopération Art et Culture (MCAC), coordonnée par l’UFISC.Présentation des premiers résultats de la grande enquête nationale sur le financement et le pouvoir d’agir des structures culturelles, menée auprès de près de 500 structures, ainsi que des préconisations de la MCAC. La rencontre sera suivie d’un échange avec plusieurs partenaires publics et élu·es sur les difficultés actuelles du secteur culturel, son rôle citoyen et les coopérations à construire. Seront présent·es à nos côtés pour débattre : Pouria AMIRSHAHI, Député de Paris Erwan BALANANT, Député du Finistère, rapporteur des programmes culture (131 et 361) de la commission culture (sous-réserve) Karine DANIEL, Sénatrice de la Loire-Atlantique, rapporteuse des programmes culture (131 et 361) de la commission culture (sous-réserve) Alexie LORCA, élue de la culture à Montreuil et vice-Présidente de la FNCC (obligatoire)",
-    "registrationUrl": "https://framaforms.org/inscription-conference-de-presse-mcac-1790199970",
-    "infoUrl": null,
-    "structure": "MCAC - UFISC"
-  },
-  {
     "id": "585m4g7od36n292i21pse07klg@google.com-2026-10-08T10:00:00+02:00",
     "title": "CA Actes If",
     "start": "2026-10-08T10:00:00+02:00",
@@ -260,19 +247,6 @@
     "structure": null
   },
   {
-    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
-    "title": "Rencontres nationales inter-asso FRAAP Marseille",
-    "start": "2026-11-05",
-    "end": "2026-11-08",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": "la FRAAP"
-  },
-  {
     "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
     "title": "Forum international des résidences artistiques et territoires",
     "start": "2026-11-05",
@@ -284,6 +258,19 @@
     "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
     "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
     "structure": "Les Ateliers Medicis"
+  },
+  {
+    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
+    "title": "Rencontres nationales inter-asso FRAAP Marseille",
+    "start": "2026-11-05",
+    "end": "2026-11-08",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": "la FRAAP"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
