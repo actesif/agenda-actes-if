@@ -13,32 +13,6 @@
     "structure": "Le Générateur"
   },
   {
-    "id": "1fpu6nrhkf4eofkbki8jtlhh9v@google.com-2026-10-05",
-    "title": "Plateau G20",
-    "start": "2026-10-05",
-    "end": "2026-10-07",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Structure : le groupe des 20 L’édition 2026 des Plateaux du G20 ÎLE-DE FRANCE Aura lieu les 5 et 6 octobre 2026 au Théâtre Jacques Carat à CACHAN (94)18 projets artistiques pluridisciplinaires en création ou en diffusion seront présentés : 14 projets repérés par les membres du G20 Île-de-France sous forme de maquette de spectacle ou de rendez-vous ; 4 projets vitrine inter-réseau",
-    "registrationUrl": "https://www.g20iledefrance.fr/les-plateaux-2026/",
-    "infoUrl": null,
-    "structure": null
-  },
-  {
-    "id": "3rdkrh4706b7r7egoe7ok0nkfd@google.com-2026-10-05T10:00:00+02:00",
-    "title": "Séminaire annuel de l'UFISC",
-    "start": "2026-10-05T10:00:00+02:00",
-    "end": "2026-10-06T18:00:00+02:00",
-    "allDay": false,
-    "location": "21 Rue des Malmaisons, 75013 Paris, France",
-    "calendarKey": "partenaires",
-    "description": "Le séminaire annuel de l'USFIC est un temps de rencontre entre les réseaux et fédérations de l'UFISC ouvertes à l'ensemble de leurs membres.",
-    "registrationUrl": null,
-    "infoUrl": "https://cloud.ufisc.org/s/dZQnowiggpM9mY4?dir=/&editing=false&openfile=true",
-    "structure": "UFISC"
-  },
-  {
     "id": "585m4g7od36n292i21pse07klg@google.com-2026-10-08T10:00:00+02:00",
     "title": "CA Actes If",
     "start": "2026-10-08T10:00:00+02:00",
@@ -390,10 +364,10 @@
     "structure": "Actes if"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -403,10 +377,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
