@@ -157,7 +157,7 @@
   },
   {
     "id": "0a3kdpi1nms35s2cn15i1pa3rt@google.com-2026-11-02T10:00:00+01:00",
-    "title": "Option GT VHSS",
+    "title": "GT budget",
     "start": "2026-11-02T10:00:00+01:00",
     "end": "2026-11-02T13:00:00+01:00",
     "allDay": false,
@@ -182,19 +182,6 @@
     "structure": null
   },
   {
-    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
-    "title": "Forum international des résidences artistiques et territoires",
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "allDay": true,
-    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
-    "calendarKey": "partenaires",
-    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
-    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
-    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
-    "structure": "Les Ateliers Medicis"
-  },
-  {
     "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
     "title": "Rencontres nationales inter-asso FRAAP Marseille",
     "start": "2026-11-05",
@@ -206,6 +193,19 @@
     "registrationUrl": null,
     "infoUrl": null,
     "structure": "la FRAAP"
+  },
+  {
+    "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
+    "title": "Forum international des résidences artistiques et territoires",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "allDay": true,
+    "location": "Grande Halle de la Villette, 211 Av. Jean Jaurès, 75019 Paris, France",
+    "calendarKey": "partenaires",
+    "description": "L’implantation de résidences artistiques dans les lieux et auprès de celles et ceux qui les habitent est devenue une pratique courante, voire incontournable, pour les institutions culturelles. Elles sont au cœur d’enjeux et parfois de tensions quant à la fonction des artistes dans le monde contemporain. [...] Ce forum est un temps de prospective pour imaginer de nouveaux futurs communs et penser cette nouvelle forme de curation que peut être la résidence : comment fabriquer du commun en cultivant la diversité et la singularité ? Quelles nouvelles routes de solidarité souhaitons-nous ouvrir pour demain ?",
+    "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
+    "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
+    "structure": "Les Ateliers Medicis"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
@@ -351,19 +351,6 @@
     "structure": null
   },
   {
-    "id": "63polumrda76mvhe898pgmi5cj@google.com-2026-12-17T10:00:00+01:00",
-    "title": "Option AG",
-    "start": "2026-12-17T10:00:00+01:00",
-    "end": "2026-12-17T14:00:00+01:00",
-    "allDay": false,
-    "location": "",
-    "calendarKey": "vie-asso",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": null
-  },
-  {
     "id": "1nuujqdcs5h99eotj52ds8qi5r@google.com-2027-01-07T10:00:00+01:00",
     "title": "Réunion CA Actes If",
     "start": "2027-01-07T10:00:00+01:00",
@@ -378,13 +365,13 @@
   },
   {
     "id": "0lu09f0dr0oardbhter6hj9r34@google.com-2027-01-12",
-    "title": "Option Sur Un PLateau",
+    "title": "Sur Un PLateau au Regard du Cygne",
     "start": "2027-01-12",
     "end": "2027-01-13",
     "allDay": true,
-    "location": "",
+    "location": "Le Regard du Cygne, 210 Rue de Belleville, 75020 Paris, France",
     "calendarKey": "vie-asso",
-    "description": "",
+    "description": "Détails à venir",
     "registrationUrl": null,
     "infoUrl": null,
     "structure": null
