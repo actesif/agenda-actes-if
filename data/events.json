@@ -26,19 +26,6 @@
     "structure": "Le Shakirail - Curry Vavart"
   },
   {
-    "id": "7i7iji7gp4qorb20bqapcp6l0n@google.com-2026-10-15",
-    "title": "LUMI — Lieux Unis pour la Musique Intergénérationnelle -  Sacem/RamDam",
-    "start": "2026-10-15",
-    "end": "2026-10-16",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "subventions",
-    "description": "",
-    "registrationUrl": null,
-    "infoUrl": "https://www.aide-aux-projets.sacem.fr/appels-projets/lumi-lieux-unis-pour-la-musique-intergenerationnelle/consultation",
-    "structure": null
-  },
-  {
     "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
     "title": "Du commun au concret : journée politique de la FéRue",
     "start": "2026-10-16",
@@ -312,10 +299,10 @@
     "structure": "Actes if"
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -325,10 +312,10 @@
     "structure": null
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
