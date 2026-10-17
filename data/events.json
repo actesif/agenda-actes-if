@@ -26,19 +26,6 @@
     "structure": "Le Shakirail - Curry Vavart"
   },
   {
-    "id": "7821lfa5fa1u52hm2pman1hiuv@google.com-2026-10-16",
-    "title": "Du commun au concret : journée politique de la FéRue",
-    "start": "2026-10-16",
-    "end": "2026-10-17",
-    "allDay": true,
-    "location": "Mains d'Œuvres, 1 Rue Charles Garnier, 93400 Saint-Ouen-sur-Seine, France",
-    "calendarKey": "partenaires",
-    "description": "La FéRue vous invite à sa journée politique, Du commun au concret, le vendredi 16 octobre à Mains d’Œuvres (1 rue Charles Garnier 93400 Saint-Ouen-sur-Seine). Le projet d’activités à 3 ans en cours de la FéRue, que vous pouvez consulter ici, arrive à son terme en décembre 2026. Nous vous invitons à nous réunir le temps d’une journée pour construire ensemble le prochain projet de la FéRue, et ainsi penser aux chantiers à prioriser. En 2020, suite au chantier de refonte du mode de gouvernance, la FéRue a eu pour volonté d’inscrire son projet sur trois ans afin de penser le développement de ses axes de travail sur la durée, de pérenniser ses objectifs et de favoriser la transmission entre les membres qui la composent. Ce projet, c’est avant tout vous qu’il concerne : quelle·s revendication·s pour le secteur souhaitez-vous que la FéRue porte ? Quels chantiers voulez-vous développer ? Quelles actions voulez-vous mener ?",
-    "registrationUrl": "https://ferue.frama.space/apps/forms/s/4WtFaDJpeZKbpoTjnHcxCRK3",
-    "infoUrl": "https://www.federationartsdelarueidf.org/journeepolitique2026/",
-    "structure": "La FéRue"
-  },
-  {
     "id": "0a6uet8pogfo21qmr82r98mesr@google.com-2026-10-17T14:00:00+02:00",
     "title": "Table-ronde Actes If 20 ans Curry Vavart",
     "start": "2026-10-17T14:00:00+02:00",
@@ -156,19 +143,6 @@
     "structure": null
   },
   {
-    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
-    "title": "Rencontres nationales inter-asso FRAAP Marseille",
-    "start": "2026-11-05",
-    "end": "2026-11-08",
-    "allDay": true,
-    "location": "",
-    "calendarKey": "partenaires",
-    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
-    "registrationUrl": null,
-    "infoUrl": null,
-    "structure": "la FRAAP"
-  },
-  {
     "id": "2ar2l0n63emvop78u58rmo81m5@google.com-2026-11-05",
     "title": "Forum international des résidences artistiques et territoires",
     "start": "2026-11-05",
@@ -180,6 +154,19 @@
     "registrationUrl": "https://form.heeds.eu/registration/25233/d75551cde8a583c7fa2c4540ab9aa102",
     "infoUrl": "https://www.ateliersmedicis.fr/article/le-forum-des-residences-artistiques-et-territoires-faire-terrain-commun-nouveaux-langages",
     "structure": "Les Ateliers Medicis"
+  },
+  {
+    "id": "16fs93q6b97sj46rccp1mbvl2h@google.com-2026-11-05",
+    "title": "Rencontres nationales inter-asso FRAAP Marseille",
+    "start": "2026-11-05",
+    "end": "2026-11-08",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Trois temps forts seront proposés lors de ces Rencontres : 💥 un temps d’ouverture vers le territoire et le grand public 💥 un temps professionnel et politique entre associations 💥 un temps collectif de travail et de projection Dans un contexte de grande inquiétude : crises culturelles, sociales, écologiques, économiques et de méfiance, de baisse des financements pour les secteurs culturels, sociaux, d’éducation, de santé... Les associations et collectifs d’artistes de la Fraap se rassemblent pour affirmer, et affiner, les valeurs qu’elles portent : solidarités, coopérations, pratiques responsables et équitables, émancipation, afin de se redonner et de partager leurs forces, leurs outils et leurs espérances. [...] Ainsi, trois objectifs pour structurer ces trois jours : ✅ Comprendre → les transformations du secteur et les nouveaux enjeux. ✅ Coopérer → expérimenter des formes de solidarité et de mutualisation. ✅ Agir ensemble → renforcer nos outils communs et notre capacité d’action. Nous vous invitons à consulter le programme qui est en pièce jointe, et désormais en ligne. Cliquez ici ! 👉 https://lnkd.in/etiazjuP Nous serions ravis de vous compter parmi nous à Marseille pour ces trois journées de rencontres et d'échanges. N'hésitez pas à venir nombreux ! Dans l'attente de vous y retrouver, nous vous adressons nos plus cordiales salutations.",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": "la FRAAP"
   },
   {
     "id": "43aj4j2ln39krc14e7hpv85qav@google.com-2026-11-05T10:00:00+01:00",
@@ -299,10 +286,10 @@
     "structure": "Actes if"
   },
   {
-    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
-    "title": "Option AG",
+    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
+    "title": "CA Actes If",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
@@ -312,10 +299,10 @@
     "structure": null
   },
   {
-    "id": "2aejsommoql9h4m3smqauukt2v@google.com-2026-12-10T10:00:00+01:00",
-    "title": "CA Actes If",
+    "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
+    "title": "Option AG",
     "start": "2026-12-10T10:00:00+01:00",
-    "end": "2026-12-10T13:00:00+01:00",
+    "end": "2026-12-10T14:00:00+01:00",
     "allDay": false,
     "location": "",
     "calendarKey": "vie-asso",
