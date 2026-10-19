@@ -286,6 +286,19 @@
     "structure": null
   },
   {
+    "id": "68sc7ti9q9e3cfkn528nqgd9p7@google.com-2027-01-05",
+    "title": "Ouverture dépôt accompagnement artistique mutualisé Région IDF",
+    "start": "2027-01-05",
+    "end": "2027-01-06",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "En savoir plus : https://www.iledefrance.fr/aides-et-appels-a-projets/aide-laccompagnement-de-projets-artistiques-dans-le-domaine-du-spectacle-vivant",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": null
+  },
+  {
     "id": "1nuujqdcs5h99eotj52ds8qi5r@google.com-2027-01-07T10:00:00+01:00",
     "title": "Réunion CA Actes If",
     "start": "2027-01-07T10:00:00+01:00",
@@ -307,6 +320,19 @@
     "location": "Le Regard du Cygne, 210 Rue de Belleville, 75020 Paris, France",
     "calendarKey": "vie-asso",
     "description": "Détails à venir",
+    "registrationUrl": null,
+    "infoUrl": null,
+    "structure": null
+  },
+  {
+    "id": "5viodas6j1cnramfbn3e3insr6@google.com-2027-01-29",
+    "title": "Fermeture accompagnement artistique mutualisé Région IDF",
+    "start": "2027-01-29",
+    "end": "2027-01-30",
+    "allDay": true,
+    "location": "",
+    "calendarKey": "subventions",
+    "description": "",
     "registrationUrl": null,
     "infoUrl": null,
     "structure": null
