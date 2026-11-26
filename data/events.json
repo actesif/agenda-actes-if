@@ -39,17 +39,17 @@
     "structure": null
   },
   {
-    "id": "0mh5defph6d6ppb8ttd759an9o@google.com-2026-12-03T10:00:00+01:00",
-    "title": "GT Fonction Employeur et prévention des risques",
+    "id": "4gcum5gcmkm8sihldkf2l6fg0l@google.com-2026-12-03T10:00:00+01:00",
+    "title": "Journée autour de la sécurité sociale de la culture",
     "start": "2026-12-03T10:00:00+01:00",
-    "end": "2026-12-03T13:00:00+01:00",
+    "end": "2026-12-03T18:00:00+01:00",
     "allDay": false,
-    "location": "Maison des Réseaux Artistiques et Culturels, 221 Rue de Belleville, 75019 Paris, France",
-    "calendarKey": "vie-asso",
-    "description": "Ce groupe de travail vise à faire émerger une dynamique d’entraide entre les lieux du réseau autour des questions RH. Il accompagne la création d’une cellule thématique, le partage de ressources et la construction collective de ses modalités de fonctionnement.",
-    "registrationUrl": "https://beta.framadate.org/polls/be2f49801165511282fa",
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Structure : Le RIF - réseau des musiques actuelles en IDFLien d' RIF –Réseau des musiques actuelles en Île-de-France, en partenariat avec Réseau Salariat, organise une journée autour de la sécuritésociale de la culture, un moment pour penser ensemble unealternative enthousiasmante pour le secteur culturel. Elle aura lieu le jeudi 3 décembre 2026 à FGO Barbaraà Paris. Lors de cette journée, Hélène Vitorge et Julien Levy, les deux intervenant·esde Réseau Salariat, présenteront les principes et le fonctionnement de cettesécurité sociale de la culture. Les participant·es pourront débattre despropositions présentées et se projeter ensemble à devenir les acteur·ices de lamise en œuvre de cette nouvelle perspective politique pour notre milieuprofessionnel.",
+    "registrationUrl": "https://framaforms.org/journee-autour-de-la-securite-sociale-de-la-culture-1791290923Le",
     "infoUrl": null,
-    "structure": "Actes if"
+    "structure": null
   },
   {
     "id": "5dppsndmc3co6gq3de8nid4ih9@google.com-2026-12-10T10:00:00+01:00",
@@ -63,6 +63,19 @@
     "registrationUrl": null,
     "infoUrl": null,
     "structure": null
+  },
+  {
+    "id": "3ar01qodclq1l19gjo1m9b0rgu@google.com-2026-12-15T14:00:00+01:00",
+    "title": "Cycle de rencontre de la Férue autour de la lute contre les VHSS #4 - J'ai programmé un.e agresseur-euse ou cette personne m'a programmé que faire ?",
+    "start": "2026-12-15T14:00:00+01:00",
+    "end": "2026-12-15T17:00:00+01:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "Lien d' Les arts de la rue, à l’instar des autres disciplines du spectacle vivant, ne sont pas exempts des violences sexistes, sexuelles et de genre (VSS). La FéRue lance un cycle de rencontres et d’échanges autour de ces thématiques. Bienvenu·es ! N'hésitez pas à consulter le site de la FéRue pour plus d'informations, ou à contacter directement Charlène Helleboid, coordinatrice : coordination@ferue.org",
+    "registrationUrl": "https://ferue.frama.space/apps/forms/s/paiA4tWn4BRs4YpeN26PnXny",
+    "infoUrl": null,
+    "structure": "La FéRue"
   },
   {
     "id": "5uf417eginn0piispfjjdpmjtp@google.com-2027-01-04T11:00:00+00:00",
