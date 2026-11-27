@@ -3,7 +3,7 @@
     "id": "7jsjif27jgpkl32t6e41ktdt7q@google.com-2026-11-28",
     "title": "30 ans Nouveau Gare Au Théâtre",
     "start": "2026-11-28",
-    "end": "2026-12-01",
+    "end": "2026-11-29",
     "allDay": true,
     "location": "",
     "calendarKey": "membres",
@@ -35,6 +35,19 @@
     "calendarKey": "partenaires",
     "description": "Structure : Le RIF - réseau des musiques actuelles en IDFLien d' RIF –Réseau des musiques actuelles en Île-de-France, en partenariat avec Réseau Salariat, organise une journée autour de la sécuritésociale de la culture, un moment pour penser ensemble unealternative enthousiasmante pour le secteur culturel. Elle aura lieu le jeudi 3 décembre 2026 à FGO Barbaraà Paris. Lors de cette journée, Hélène Vitorge et Julien Levy, les deux intervenant·esde Réseau Salariat, présenteront les principes et le fonctionnement de cettesécurité sociale de la culture. Les participant·es pourront débattre despropositions présentées et se projeter ensemble à devenir les acteur·ices de lamise en œuvre de cette nouvelle perspective politique pour notre milieuprofessionnel.",
     "registrationUrl": "https://framaforms.org/journee-autour-de-la-securite-sociale-de-la-culture-1791290923Le",
+    "infoUrl": null,
+    "structure": null
+  },
+  {
+    "id": "2bhshu4dva05cbfjaibaihe7lh@google.com-2026-12-07T10:00:00+01:00",
+    "title": "Mobilité culturelle On the Move",
+    "start": "2026-12-07T10:00:00+01:00",
+    "end": "2026-12-07T11:00:00+01:00",
+    "allDay": false,
+    "location": "",
+    "calendarKey": "partenaires",
+    "description": "FORMATION — Ce webinaire destiné aux porteurs de projets souhaitant découvrir et utiliser au mieux les derniers guides de la mobilité co-produits par On the Move, le réseau international d'information et de plaidoyer sur la mobilité culturelle. Lundi 7 décembre de 10h à 11h / EN LIGNE En savoir plus",
+    "registrationUrl": null,
     "infoUrl": null,
     "structure": null
   },
